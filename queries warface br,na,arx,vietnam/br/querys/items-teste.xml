@@ -1,0 +1,38 @@
+ cry_money='0' crown_money='0'>
+ <item id='113272022' name='mk01' attached_to='0' config='dm=0;material=default;pocket_index=32768' slot='163840' equipped='8' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='113272023' name='claymoreexplosive' attached_to='0' config='dm=0;material=default;pocket_index=1048576' slot='5242880' equipped='16' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='113272024' name='explosivegrenade' attached_to='0' config='dm=0;material=default;pocket_index=2163713' slot='5411845' equipped='29' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='113272025' name='booster_02' attached_to='0' config='' slot='0' equipped='0' default='0' permanent='0' expired_confirmed='0' buy_time_utc='1462398459' expiration_time_utc='1463003259' seconds_left='191638'/>
+ <item id='114213307' name='engineer_helmet_lava_01' attached_to='0' config='dm=0;material=default;pocket_index=0' slot='12582912' equipped='16' default='0' permanent='0' expired_confirmed='0' buy_time_utc='1462808618' expiration_time_utc='1463413418' seconds_left='601797'/><item id='18446744073709551170' name='kn01' attached_to='0' config='dm=0;material=default' slot='4329476' equipped='29' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551175' name='pt05_shop' attached_to='0' config='dm=0;material=default' slot='3247107' equipped='29' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551214' name='ar02_shop' attached_to='0' config='dm=0;material=default' slot='1' equipped='1' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551287' name='sr02_default' attached_to='0' config='dm=0;material=default' slot='1024' equipped='4' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551210' name='smg04_shop' attached_to='0' config='dm=0;material=default' slot='1048576' equipped='16' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551289' name='shg01_default' attached_to='0' config='dm=0;material=default' slot='32768' equipped='8' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551278' name='df01' attached_to='0' config='dm=0;material=default' slot='65536' equipped='8' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551173' name='ap01' attached_to='0' config='dm=0;material=default' slot='2' equipped='1' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551301' name='ak01' attached_to='0' config='dm=0;material=default' slot='2097152' equipped='16' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551360' name='medic_helmet_01' attached_to='0' config='dm=0;material=default' slot='393216' equipped='8' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551394' name='medic_kneepads_01' attached_to='0' config='dm=0;material=default' slot='294912' equipped='8' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551437' name='sniper_helmet_01' attached_to='0' config='dm=0;material=default' slot='12288' equipped='4' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551354' name='sniper_kneepads_01' attached_to='0' config='dm=0;material=default' slot='9216' equipped='4' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551405' name='soldier_helmet_05' attached_to='0' config='dm=0;material=default' slot='12' equipped='1' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551367' name='soldier_kneepads_01' attached_to='0' config='dm=0;material=default' slot='9' equipped='1' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551365' name='engineer_helmet_01' attached_to='0' config='dm=0;material=default' slot='0' equipped='0' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551448' name='engineer_kneepads_01' attached_to='0' config='dm=0;material=default' slot='9437184' equipped='16' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551450' name='shared_hands_01' attached_to='0' config='dm=0;material=default' slot='7576583' equipped='29' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551411' name='shared_pants_01' attached_to='0' config='dm=0;material=default' slot='19482642' equipped='29' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551385' name='shared_jacket_01' attached_to='0' config='dm=0;material=default' slot='14070797' equipped='29' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551440' name='shared_shoes_01' attached_to='0' config='dm=0;material=default' slot='17317904' equipped='29' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <item id='18446744073709551428' name='shared_vest_01' attached_to='0' config='dm=0;material=default' slot='18400273' equipped='29' default='1' permanent='0' expired_confirmed='0' buy_time_utc='0' expiration_time_utc='0' seconds_left='0'/>
+ <unlocked_item id='536'/>
+ <unlocked_item id='537'/>
+ <unlocked_item id='541'/>
+ <sponsor_info>
+ 	<sponsor sponsor_id='0' sponsor_points='0' next_unlock_item='sr06_shop'/>
+ 	<sponsor sponsor_id='1' sponsor_points='0' next_unlock_item='sniper_helmet_05'/>
+ 	<sponsor sponsor_id='2' sponsor_points='0' next_unlock_item='rds01'/>
+ </sponsor_info>
+ <chat_channels>
+ 	<chat channel='0' channel_id='global.main_pve_2' service_id='conference.warface'/>
+ </chat_channels>

@@ -1,0 +1,17 @@
+<create_profile 
+
+user_id='4057077' 
+version='1.12600.570.21500' 
+token='' 
+nickname='head' 
+region_id='global' 
+head='default_head_02' 
+hw_id='649798443' 
+resource='main_pve_3' 
+build_type='--release'
+
+/>
+
+<iq from='k01.warface' to='help1235@warface/GameClient' id='uid00000004' type='result'>
+
+<get_master_server resource='main_pve_9' load_index='255'/>

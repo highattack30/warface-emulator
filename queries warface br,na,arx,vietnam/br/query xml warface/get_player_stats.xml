@@ -1,0 +1,45 @@
+<get_player_stats>
+<stat stat='player_online_time' Value='386076'/>
+<stat stat='player_gained_money' Value='5703'/>
+<stat stat='player_max_session_time' Value='14608'/>
+<stat stat='player_damage' Value='132431'/>
+<stat stat='player_max_damage' Value='501'/>
+<stat stat='player_climb_assists' Value='16'/>
+<stat stat='player_ammo_restored' Value='68'/>
+<stat difficulty='' mode='PVP' stat='player_sessions_won' Value='15'/>
+<stat mode='PVP' stat='player_kill_streak' Value='10'/>
+<stat mode='PVP' stat='player_kills_player' Value='671'/>
+<stat mode='PVP' stat='player_sessions_lost_connection' Value='32'/>
+<stat mode='PVP' stat='player_deaths' Value='405'/>
+<stat class='Rifleman' mode='PVP' stat='player_shots' Value='1475'/>
+<stat class='Rifleman' mode='PVP' stat='player_hits' Value='283'/>
+<stat class='Rifleman' mode='PVP' stat='player_headshots' Value='7'/>
+<stat class='Rifleman' mode='PVP' stat='player_playtime' Value='11439'/>
+<stat stat='player_heal' Value='1575'/>
+<stat class='Medic' mode='PVP' stat='player_shots' Value='2530'/>
+<stat class='Medic' mode='PVP' stat='player_hits' Value='436'/>
+<stat class='Medic' mode='PVP' stat='player_headshots' Value='9'/>
+<stat class='Medic' mode='PVP' stat='player_playtime' Value='21427'/>
+<stat mode='PVP' stat='player_sessions_left' Value='4'/>
+<stat class='Engineer' mode='PVP' stat='player_shots' Value='13808'/>
+<stat class='Engineer' mode='PVP' stat='player_hits' Value='2476'/>
+<stat class='Engineer' mode='PVP' stat='player_playtime' Value='133432'/>
+<stat stat='player_repair' Value='10507'/>
+<stat mode='PVP' stat='player_kills_claymore' Value='46'/>
+<stat class='Engineer' mode='PVP' stat='player_headshots' Value='116'/>
+<stat stat='player_climb_coops' Value='8'/>
+<stat difficulty='' mode='PVP' stat='player_sessions_lost' Value='7'/>
+<stat stat='player_resurrect_made' Value='12'/>
+<stat stat='player_resurrected_by_medic' Value='8'/>
+<stat class='Recon' mode='PVP' stat='player_shots' Value='125'/>
+<stat class='Recon' mode='PVP' stat='player_hits' Value='34'/>
+<stat class='Recon' mode='PVP' stat='player_playtime' Value='6407'/>
+<stat difficulty='' mode='PVP' stat='player_sessions_draw' Value='3'/>
+<stat class='Recon' mode='PVP' stat='player_headshots' Value='2'/>
+<stat mode='PVP' stat='player_kills_player_friendly' Value='2'/>
+<stat mode='PVP' stat='player_kills_melee' Value='6'/>
+<stat class='Rifleman' item_type='ar03_shop' stat='player_wpn_usage' Value='9531'/>
+<stat class='Medic' item_type='shg13_shop' stat='player_wpn_usage' Value='11488'/>
+<stat class='Engineer' item_type='smg24_shop' stat='player_wpn_usage' Value='69824'/>
+<stat class='Recon' item_type='sr09_lava01_shop' stat='player_wpn_usage' Value='3701'/>
+</get_player_stats>

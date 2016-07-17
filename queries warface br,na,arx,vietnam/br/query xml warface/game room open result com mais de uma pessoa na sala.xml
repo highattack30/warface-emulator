@@ -1,0 +1,39 @@
+<gameroom_join room_id='6041382087536150066' code='0'>
+
+
+<game_room room_id='6041382087536150066' room_type='16'>
+
+<core teams_switched='0' room_name='Sala de jogo Ag4inst' private='0' players='4' can_start='0' team_balanced='1' min_ready_players='3' revision='53'>
+
+<players>
+
+<player profile_id='2530468' team_id='1' status='1' observer='0' skill='11.000' nickname='TheMasterKiller1' clanName='MLGmasters' class_id='4' online_id='themasterkiller16@warface/GameClient' group_id='f9a38a20-706e-4c50-a6ac-19749502f5d6' presence='33' experience='28740' rank='11' banner_badge='109' banner_mark='51' banner_stripe='213' region_id='global'/>
+
+<player profile_id='2130486' team_id='1' status='1' observer='0' skill='20.000' nickname='brkiller99' clanName='progdark' class_id='2' online_id='brkiller99@warface/GameClient' group_id='2c9edcaa-d4a4-4c2d-b67c-1a7a87dfa7bb' presence='33' experience='124141' rank='20' banner_badge='851' banner_mark='850' banner_stripe='213' region_id='global'/>
+
+<player profile_id='2530309' team_id='1' status='1' observer='0' skill='12.000' nickname='HAWK*BR' clanName='MLGmasters' class_id='4' online_id='gaules27@warface/GameClient' group_id='f9a38a20-706e-4c50-a6ac-19749502f5d6' presence='33' experience='31920' rank='12' banner_badge='109' banner_mark='4294967295' banner_stripe='4294967295' region_id='global'/>
+
+<player profile_id='2213770' team_id='1' status='1' observer='0' skill='9.000' nickname='setTimeout' clanName='' class_id='0' online_id='settimeout@warface/GameClient' group_id='f640ca52-c89e-4e1e-9bcd-d078c457aa89' presence='17' experience='14622' rank='9' banner_badge='4294967295' banner_mark='4294967295' banner_stripe='4294967295' region_id='global'/>
+
+
+
+</players><playersReserved><player profile_id='2532445' team_id='0' status='0' observer='0' skill='1.000' nickname='Trutarion' clanName='' class_id='0' online_id='trutarion@warface/GameClient' group_id='7a421c87-6875-4de9-a7a3-267ccf0cb8a5' presence='17' experience='0' rank='1' banner_badge='4294967295' banner_mark='4294967295' banner_stripe='4294967295' region_id=''/>
+
+</playersReserved>
+
+<team_colors>
+<team_color id='1' color='4294907157'/>
+<team_color id='2' color='4279655162'/>
+</team_colors>
+</core>
+
+<session id='' status='0' game_progress='0' start_time='1463532564' revision='33'/>
+
+<custom_params friendly_fire='0' enemy_outlines='1' auto_team_balance='0' dead_can_chat='1' join_in_the_process='1' max_players='5' round_limit='0' class_restriction='253' inventory_slot='2113929215' revision='23'/>
+
+<mission mission_key='ed4f528f-e08f-46a1-b508-1f8aad45db2b' no_teams='1' name='@na_mission_path01_1' setting='africa/africa_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@mission_desc_africa_path' image='mapImgAfrica_training' difficulty='easy' type='trainingmission' time_of_day='9:06' revision='30'><objectives factor='1'><objective id='0' type='primary'/><objective id='17' type='secondary'/></objectives></mission><kick_vote_params success='0.8' timeout='60' cooldown='300' revision='1'/>
+
+<auto_start auto_start_timeout='0' auto_start_timeout_left='0' can_manual_start='0' joined_intermission_timeout='10' revision='30'/>
+
+
+</game_room></gameroom_join>

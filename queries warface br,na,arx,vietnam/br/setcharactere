@@ -1,0 +1,11 @@
+<setcharacter gender='male' height='1' fatness='0' current_class='0'>
+
+<item id='18446744073709551604' name='rds03' attached_to='0' slot='655360' config='dm=0;material=default;pocket_index=32768'/>
+<item id='18446744073709551596' name='gp03' attached_to='0' slot='21647380' config='dm=0;material=default;pocket_index=1115137'/>
+<item id='18446744073709551589' name='sc02' attached_to='0' slot='21647380' config='dm=0;material=default;pocket_index=2197506'/>
+<item id='18446744073709551563' name='sc05' attached_to='0' slot='20' config='dm=0;material=default;pocket_index=3'/>
+<item id='18446744073709551539' name='rds01' attached_to='0' slot='21647380' config='dm=0;material=default;pocket_index=3279876'/>
+<item id='18446744073709551536' name='as06' attached_to='0' slot='20971520' config='dm=0;material=default;pocket_index=4194304'/>
+<item id='18446744073709551508' name='sc01' attached_to='0' slot='20971520' config='dm=0;material=default;pocket_index=5242880'/>
+
+</setcharacter>

@@ -1,0 +1,545 @@
+<get_configs code="3" from="0" to="5" hash="915565260">
+ <abuse_manager_config>
+  <limits reports_per_day="10" reports_per_player="2"/>
+  <report_types>
+   <report_type name="speed_bot" message="@ui_abuse_speed_bot"/>
+   <report_type name="aim_bot" message="@ui_abuse_aim_bot"/>
+   <report_type name="perspective_hacking" message="@ui_abuse_perspective_hacking"/>
+   <report_type name="verbal_abuse" message="@ui_abuse_verbal_abuse"/>
+   <report_type name="master_does_not_start_room" message="@ui_abuse_master_does_not_start_room"/>
+   <report_type name="other" message="@ui_abuse_other"/>
+  </report_types>
+ </abuse_manager_config>
+ <consecutive_login_bonus enabled="0" schedule="0 5 * * *" expiration="07.00:00:00" use_notification="1">
+  <streak>
+   <reward>daily_bonus_01_01</reward>
+   <reward>daily_bonus_01_02</reward>
+   <reward>daily_bonus_01_03</reward>
+   <reward>daily_bonus_01_04</reward>
+   <reward>daily_bonus_01_05</reward>
+  </streak>
+  <streak>
+   <reward>daily_bonus_02_01</reward>
+   <reward>daily_bonus_02_02</reward>
+   <reward>daily_bonus_02_03</reward>
+   <reward>daily_bonus_02_04</reward>
+   <reward>daily_bonus_02_05</reward>
+   <reward>daily_bonus_02_06</reward>
+   <reward>daily_bonus_02_07</reward>
+  </streak>
+ </consecutive_login_bonus>
+ <consecutive_login_bonus_holiday enabled="1" schedule="0 5 * * *" expiration="05.00:00:00" use_notification="1">
+  <streak>
+   <reward>holiday_bonus_01</reward>
+   <reward>holiday_bonus_02</reward>
+   <reward>holiday_bonus_03</reward>
+   <reward>holiday_bonus_04</reward>
+   <reward>holiday_bonus_05</reward>
+  </streak>
+ </consecutive_login_bonus_holiday>
+ <profile_progression_config enabled="1">
+  <tutorial_passed type="tutorial_1" silent="1" special_reward="tutorial_1_completed"/>
+  <tutorial_passed type="tutorial_2" silent="1" special_reward="tutorial_2_completed"/>
+  <tutorial_passed type="tutorial_3" silent="1" special_reward="tutorial_3_completed"/>
+  <tutorial_unlock silent="1" unlock_type="tutorial_1"/>
+  <tutorial_unlock rank_reached="2" silent="1" unlock_type="tutorial_2"/>
+  <tutorial_unlock rank_reached="5" silent="1" unlock_type="tutorial_3"/>
+  <class_unlock silent="1" unlock_class="rifleman"/>
+  <class_unlock silent="1" unlock_class="sniper"/>
+  <class_unlock tutorial_passed="tutorial_2" unlock_class="medic"/>
+  <class_unlock tutorial_passed="tutorial_3" unlock_class="engineer"/>
+  <mission_unlock silent="1" unlock_type="trainingmission"/>
+  <mission_unlock type="trainingmission" max_value="1" pass_value="1" unlock_type="easymission"/>
+  <mission_unlock type="easymission" max_value="2" pass_value="1" unlock_type="normalmission"/>
+  <mission_unlock type="normalmission" max_value="3" rank_reached="10" pass_value="1" legacy_diff="normal" unlock_type="hardmission"/>
+  <mission_unlock silent="1" rank_reached="25" unlock_type="survivalmission"/>
+  <mission_unlock silent="1" rank_reached="25" unlock_type="campaignsection1"/>
+  <mission_unlock silent="1" rank_reached="25" unlock_type="campaignsection2"/>
+  <mission_unlock silent="1" rank_reached="25" unlock_type="campaignsection3"/>
+  <mission_unlock silent="1" rank_reached="25" unlock_type="campaignsections"/>
+  <mission_unlock rank_reached="5" silent="1" unlock_type="volcanoeasy"/>
+  <mission_unlock rank_reached="5" silent="1" unlock_type="volcanonormal"/>
+  <mission_unlock type="volcanonormal" max_value="1" rank_reached="10" pass_value="1" unlock_type="volcanohard"/>
+  <mission_unlock rank_reached="5" silent="1" unlock_type="zombieeasy"/>
+  <mission_unlock rank_reached="5" silent="1" unlock_type="zombienormal"/>
+  <mission_unlock type="zombienormal" max_value="1" rank_reached="10" pass_value="1" unlock_type="zombiehard"/>
+ </profile_progression_config>
+ <special_reward_configuration hash="-218892391">
+  <event name="zsd_key_bronze" use_notification="0">
+   <item amount="1" name="key_zsd01_bronze_01"/>
+  </event>
+  <event name="zsd_key_silver" use_notification="0">
+   <item amount="1" name="key_zsd01_silver_01"/>
+  </event>
+  <event name="zsd_key_gold" use_notification="0">
+   <item amount="1" name="key_zsd01_gold_01"/>
+  </event>
+  <event name="zsd_gp_150" use_notification="0">
+   <money amount="550" currency="game_money"/>
+  </event>
+  <event name="zsd_gp_350" use_notification="0">
+   <money amount="350" currency="game_money"/>
+  </event>
+  <event name="zsd_gp_550" use_notification="0">
+   <money amount="550" currency="game_money"/>
+  </event>
+  <event name="zsd_mask" use_notification="0">
+   <item expiration="30d" name="shared_helmet_zsd_01"/>
+  </event>
+  <event name="tutorial_1_completed">
+   <money amount="3000" currency="game_money"/>
+   <item expiration="1d" name="ar03_shop"/>
+   <item expiration="1d" name="shared_vest_02"/>
+  </event>
+  <event name="tutorial_2_completed">
+   <money amount="3000" currency="game_money"/>
+   <item expiration="1d" name="shg13_shop"/>
+   <item expiration="1d" name="pt02_shop"/>
+  </event>
+  <event name="tutorial_3_completed">
+   <money amount="3000" currency="game_money"/>
+   <item expiration="1d" name="smg02_shop"/>
+   <item expiration="1d" name="shared_shoes_05"/>
+  </event>
+  <event name="new_player_bonus">
+   <item amount="5" name="coin_01"/>
+  </event>
+  <event name="daily_bonus">
+   <item amount="1" name="coin_01"/>
+  </event>
+  <event name="daily_bonus_arx">
+   <item expiration="1d" name="ar20_cny01_shop"/>
+  </event>
+  <event name="daily_bonus_igr">
+   <money amount="1000" currency="game_money"/>
+  </event>
+  <event name="newbie_rankup_bonus">
+   <money amount="1000" currency="game_money"/>
+  </event>
+  <event name="daily_mission_access_tokens" use_notification="0">
+   <item amount="2" max_amount="6" name="mission_access_token_04"/>
+  </event>
+  <event name="daily_mission_access_tokens_2" use_notification="0">
+   <item amount="5" max_amount="10" name="mission_access_token_04"/>
+  </event>
+  <event name="survival_mission_reward">
+   <item name="random_box_sm_01" regular=""/>
+  </event>
+  <event name="rw01_mission_reward">
+   <item name="random_box_rw_01" regular=""/>
+  </event>
+  <event name="rw02_mission_reward">
+   <item name="random_box_rw_02" regular=""/>
+  </event>
+  <event name="rw03_mission_reward">
+   <item name="random_box_rw_03" regular=""/>
+  </event>
+  <event name="rw04_mission_reward">
+   <item name="random_box_rw_04" regular=""/>
+  </event>
+  <event name="volcano_easy_mission_reward">
+   <item name="random_box_vc_01" regular=""/>
+  </event>
+  <event name="volcano_normal_mission_reward">
+   <item name="random_box_vc_02" regular=""/>
+  </event>
+  <event name="volcano_hard_mission_reward">
+   <item name="random_box_vc_03" regular=""/>
+  </event>
+  <event name="zombie_easy_mission_reward">
+   <item name="random_box_zsd_01" regular=""/>
+  </event>
+  <event name="zombie_normal_mission_reward">
+   <item name="random_box_zsd_02" regular=""/>
+  </event>
+  <event name="zombie_hard_mission_reward">
+   <item name="random_box_zsd_03" regular=""/>
+  </event>
+  <event name="zombie_mission_bronze_reward" use_notification="0">
+   <reserve_item name="warcase_zsd01_free_bronze_01"/>
+   <reserve_item name="warcase_zsd01_key_bronze_01"/>
+  </event>
+  <event name="zombie_mission_silver_reward" use_notification="0">
+   <reserve_item name="warcase_zsd01_free_silver_01"/>
+   <reserve_item name="warcase_zsd01_key_silver_01"/>
+  </event>
+  <event name="zombie_mission_gold_reward" use_notification="0">
+   <reserve_item name="warcase_zsd01_free_gold_01"/>
+   <reserve_item name="warcase_zsd01_key_gold_01"/>
+  </event>
+  <event name="bonus_5_1">
+   <item expiration="6h" name="smokegrenade02"/>
+  </event>
+  <event name="bonus_5_2">
+   <item amount="2" name="explosivegrenade02_c"/>
+  </event>
+  <event name="bonus_5_3">
+   <item amount="2" name="claymoreexplosive04_c"/>
+  </event>
+  <event name="bonus_5_4">
+   <item expiration="6h" name="kn04"/>
+  </event>
+  <event name="bonus_5_5">
+   <item expiration="6h" name="pt03_shop"/>
+  </event>
+  <event name="bonus_5_6">
+   <item amount="2" name="coin_01"/>
+  </event>
+  <event name="bonus_5_7">
+   <item expiration="7d" name="shared_vest_02"/>
+  </event>
+  <event name="daily_bonus_01_01">
+   <money amount="100" currency="game_money"/>
+  </event>
+  <event name="daily_bonus_01_02">
+   <item amount="2" name="coin_01"/>
+  </event>
+  <event name="daily_bonus_01_03">
+   <item expiration="2d" name="pt25_shop"/>
+  </event>
+  <event name="daily_bonus_01_04">
+   <item amount="20" name="smokegrenade_c"/>
+  </event>
+  <event name="daily_bonus_01_05">
+   <item name="random_box_daily_01" regular=""/>
+  </event>
+  <event name="daily_bonus_02_01">
+   <money amount="150" currency="game_money"/>
+  </event>
+  <event name="daily_bonus_02_02">
+   <item amount="2" name="coin_01"/>
+  </event>
+  <event name="daily_bonus_02_03">
+   <item name="random_box_daily_02" regular=""/>
+  </event>
+  <event name="daily_bonus_02_04">
+   <money amount="500" currency="game_money"/>
+  </event>
+  <event name="daily_bonus_02_05">
+   <item name="random_box_daily_02" regular=""/>
+  </event>
+  <event name="daily_bonus_02_06">
+   <money amount="100" currency="crown_money"/>
+  </event>
+  <event name="daily_bonus_02_07">
+   <item name="random_box_daily_03" regular=""/>
+  </event>
+  <event name="holiday_bonus_01">
+   <item expiration="7d" name="pt41_ww2_shop"/>
+  </event>
+  <event name="holiday_bonus_02">
+   <item expiration="7d" name="kn43_vdv"/>
+  </event>
+  <event name="holiday_bonus_03">
+   <item expiration="7d" name="smg41_ww2_shop"/>
+  </event>
+  <event name="holiday_bonus_04">
+   <item expiration="7d" name="sr41_shop"/>
+  </event>
+  <event name="holiday_bonus_05">
+   <item expiration="7d" name="shg31_shop"/>
+  </event>
+  <event name="rankup_bonus_02" use_notification="0">
+   <item name="random_box_rank_00" regular=""/>
+  </event>
+  <event name="rankup_bonus_03" use_notification="0">
+   <item name="random_box_rank_00" regular=""/>
+  </event>
+  <event name="rankup_bonus_04" use_notification="0">
+   <item name="random_box_rank_00" regular=""/>
+  </event>
+  <event name="rankup_bonus_05" use_notification="0">
+   <item name="random_box_rank_01" regular=""/>
+  </event>
+  <event name="rankup_bonus_06" use_notification="0">
+   <item name="random_box_rank_01" regular=""/>
+  </event>
+  <event name="rankup_bonus_07" use_notification="0">
+   <item name="random_box_rank_01" regular=""/>
+  </event>
+  <event name="rankup_bonus_08" use_notification="0">
+   <item name="random_box_rank_01" regular=""/>
+  </event>
+  <event name="rankup_bonus_09" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_10" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_11" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_12" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_13" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_14" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_15" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_16" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_17" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_18" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_19" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_20" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_21" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_22" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_23" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_24" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+  </event>
+  <event name="rankup_bonus_25" use_notification="0">
+   <item name="random_box_rank_02" regular=""/>
+   <item amount="5" name="mission_access_token_04"/>
+  </event>
+  <event name="rankup_bonus_26" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_27" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_28" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_29" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_30" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_31" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_32" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_33" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_34" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_35" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_36" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_37" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_38" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_39" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_40" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_41" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_42" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_43" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_44" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_45" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_46" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_47" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_48" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_49" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_50" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_51" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_52" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_53" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_54" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_55" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_56" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_57" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_58" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_59" use_notification="0">
+   <item name="random_box_rank_03" regular=""/>
+  </event>
+  <event name="rankup_bonus_60" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_61" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_62" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_63" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_64" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_65" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_66" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_67" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_68" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_69" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_70" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_71" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_72" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_73" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_74" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_75" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_76" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_77" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_78" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_79" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="rankup_bonus_80" use_notification="0">
+   <item name="random_box_rank_04" regular=""/>
+  </event>
+  <event name="bonus_1_1">
+   <item expiration="1d" name="pt29_fld01_shop"/>
+   <item expiration="1d" name="kn44_fld01"/>
+  </event>
+  <event name="test_daily_bonus">
+   <item amount="1" name="coin_01"/>
+  </event>
+  <event name="test">
+   <item expiration="3d" name="ar01_shop"/>
+   <item name="shg07_shop"/>
+   <item amount="3" max_amount="10" name="coin_01"/>
+   <item durability="9000" name="pt03_shop"/>
+   <item amount="1500" name="exp_item_01"/>
+   <item amount="5" name="explosivegrenade02_c"/>
+   <item name="soldier_fbs_01_test" regular=""/>
+   <item name="random_box_test_01" regular=""/>
+   <item name="bundle_item_test_01" regular=""/>
+   <item name="kn02_skin_test"/>
+   <item name="kn02_cny01_skin_test_shop" regular=""/>
+   <money amount="3240" currency="game_money" use_notification="0"/>
+   <achievement id="54" progress="5"/>
+  </event>
+  <event name="test_bonus_1_1">
+   <money amount="250" currency="game_money"/>
+  </event>
+  <event name="test_bonus_1_2">
+   <item amount="1" name="coin_01"/>
+  </event>
+  <event name="test_bonus_1_3">
+   <money amount="300" currency="crown_money"/>
+  </event>
+  <event name="test_bonus_2_1">
+   <money amount="250" currency="game_money"/>
+  </event>
+  <event name="test_bonus_2_2">
+   <item name="random_box_bonus_02" regular=""/>
+  </event>
+  <event name="test_bonus_2_3">
+   <item amount="2" name="coin_01"/>
+  </event>
+  <event name="test_bonus_3_1">
+   <money amount="350" currency="game_money"/>
+  </event>
+  <event name="test_bonus_4_1">
+   <money amount="500" currency="game_money"/>
+  </event>
+  <event name="test_bonus_5_1">
+   <item expiration="6h" name="smokegrenade02"/>
+  </event>
+  <event name="test_bonus_5_2">
+   <item amount="2" name="explosivegrenade02_c"/>
+  </event>
+  <event name="test_bonus_5_3">
+   <item amount="2" name="claymoreexplosive04_c"/>
+  </event>
+  <event name="test_holiday_bonus_01">
+   <money amount="250" currency="crown_money"/>
+  </event>
+  <event name="test_holiday_bonus_02">
+   <item amount="1" name="coin_01"/>
+  </event>
+  <event name="test_holiday_bonus_03">
+   <money amount="250" currency="game_money"/>
+  </event>
+ </special_reward_configuration>
+</get_configs>

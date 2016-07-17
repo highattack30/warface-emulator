@@ -1,0 +1,415 @@
+<resync_profile>
+   <item id="37095732" name="mk01" attached_to="0" config="dm=0;material=default;pocket_index=32768" slot="163840" equipped="8" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="37095733" name="claymoreexplosive" attached_to="0" config="dm=0;material=default;pocket_index=1048576" slot="5242880" equipped="16" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="37095734" name="explosivegrenade" attached_to="0" config="dm=0;material=default;pocket_index=2163713" slot="5411845" equipped="29" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="37095737" name="ar06_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1448840560" total_durability_points="36000" durability_points="36000" />
+   <item id="37095738" name="soldier_hands_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1448842548" total_durability_points="36000" durability_points="36060" />
+   <item id="37095739" name="coin_01" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1448906097" quantity="4" />
+   <item id="37095741" name="engineer_vest_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1448907559" total_durability_points="36000" durability_points="36007" />
+   <item id="37095743" name="mission_access_token_04" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1448908182" quantity="10" />
+   <item id="37095744" name="sniper_vest_02" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1448910253" total_durability_points="36000" durability_points="36000" />
+   <item id="37095746" name="smokegrenade04_c" attached_to="0" config="dm=0;material=;pocket_index=2130945" slot="23812118" equipped="29" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1448910600" quantity="149" />
+   <item id="37095748" name="pt27_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1448910690" total_durability_points="36000" durability_points="36004" />
+   <item id="37095749" name="claymoreexplosive04_c" attached_to="0" config="dm=0;material=;pocket_index=1050624" slot="23091200" equipped="20" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1448910690" quantity="64" />
+   <item id="37095750" name="box_token_cry_money_01" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1448910632" quantity="159" />
+   <item id="37095751" name="ar22_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1448916917" total_durability_points="36000" durability_points="36007" />
+   <item id="37095752" name="box_token_cry_money_10" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1448916903" quantity="17" />
+   <item id="37095753" name="medic_vest_02" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1448917661" total_durability_points="36000" durability_points="36042" />
+   <item id="37095754" name="soldier_helmet_02" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1448922107" total_durability_points="36000" durability_points="36031" />
+   <item id="37095756" name="medic_vest_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1448924863" total_durability_points="36000" durability_points="36007" />
+   <item id="37095757" name="sniper_helmet_05" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1448929583" total_durability_points="36000" durability_points="36032" />
+   <item id="37095759" name="engineer_helmet_03" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1448979085" total_durability_points="36000" durability_points="36020" />
+   <item id="37095761" name="sniper_vest_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1449001970" total_durability_points="36000" durability_points="36010" />
+   <item id="37095763" name="shared_hands_06" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1449068693" total_durability_points="36000" durability_points="36020" />
+   <item id="37095765" name="medic_helmet_02" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1449184800" total_durability_points="36000" durability_points="36020" />
+   <item id="37095771" name="box_token_cry_money_29" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1449191875" quantity="32" />
+   <item id="37095772" name="shared_vest_08" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1449263137" total_durability_points="36000" durability_points="36016" />
+   <item id="37095788" name="medic_helmet_05" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1449619147" total_durability_points="36000" durability_points="36001" />
+   <item id="37095794" name="soldier_helmet_04" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1449774354" total_durability_points="36000" durability_points="36020" />
+   <item id="37095795" name="shared_vest_04" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1449791100" total_durability_points="36000" durability_points="36010" />
+   <item id="37095800" name="shared_shoes_04" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1449891160" total_durability_points="36000" durability_points="36037" />
+   <item id="37095803" name="box_token_cry_money_30" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1449945600" quantity="52" />
+   <item id="37095804" name="engineer_vest_02" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1449947508" total_durability_points="36000" durability_points="36009" />
+   <item id="37095811" name="ap01_xmas" attached_to="0" config="dm=0;material=xmas01;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1450026635" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="37095812" name="shared_hands_03" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1450034274" total_durability_points="36000" durability_points="36004" />
+   <item id="37095814" name="box_token_cry_money_37" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1450115754" quantity="10" />
+   <item id="37095817" name="ar05_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1450273530" total_durability_points="36000" durability_points="36006" />
+   <item id="37095820" name="ak01_xmas" attached_to="0" config="dm=0;material=xmas01;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1450403413" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="37095823" name="box_token_cry_money_02" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1450554600" quantity="26" />
+   <item id="37095830" name="box_token_cry_money_35" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1450829401" quantity="16" />
+   <item id="37252797" name="kn06" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1454108571" expiration_time_utc="1542637418" seconds_left="13538520" />
+   <item id="38113517" name="engineer_helmet_lava_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1454961746" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="38231284" name="pt26_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1455073463" expiration_time_utc="1542637418" seconds_left="21078624" />
+   <item id="38343953" name="sr02_camo05_shop" attached_to="0" config="dm=0;material=camo05;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1455215171" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="38343954" name="booster_01" attached_to="0" config="" slot="0" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1455215172" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="38463982" name="shared_shoes_05" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="16" equipped="1" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1455333365" total_durability_points="36000" durability_points="36019" />
+   <item id="38645218" name="sr08_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1455493969" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="38766821" name="ar08_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1455637962" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="39031471" name="shared_hands_05" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1455977353" expiration_time_utc="1461017494" seconds_left="0" />
+   <item id="39131131" name="soldier_helmet_crown_02" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1456075612" expiration_time_utc="1458512514" seconds_left="0" />
+   <item id="39131222" name="shared_vest_02" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1456075617" expiration_time_utc="1460501286" seconds_left="0" />
+   <item id="39136093" name="sniper_helmet_lava_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1456079674" expiration_time_utc="1460507389" seconds_left="0" />
+   <item id="39140696" name="medic_helmet_lava_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1456082914" expiration_time_utc="1460165579" seconds_left="0" />
+   <item id="39157803" name="flashbang" attached_to="0" config="dm=0;material=;pocket_index=3246080" slot="5411840" equipped="28" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1456094151" expiration_time_utc="1542637418" seconds_left="2470291" />
+   <item id="39168566" name="f_sniper_fbs_03" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1456103105" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="39413334" name="mk02" attached_to="0" config="dm=0;material=default;pocket_index=32768" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1456426914" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="39481748" name="sr02_camo03_shop" attached_to="0" config="dm=0;material=camo03;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1456502345" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="39760950" name="sr06_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1456766865" total_durability_points="36000" durability_points="36008" />
+   <item id="39760951" name="smg07_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1456766865" total_durability_points="36000" durability_points="36014" />
+   <item id="39878803" name="medic_fbs_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1456939264" expiration_time_utc="1460646230" seconds_left="0" />
+   <item id="39893790" name="box_token_cry_money_40" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1456939264" quantity="31" />
+   <item id="40342124" name="medic_helmet_lava_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="393216" equipped="8" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1457400738" total_durability_points="36000" durability_points="36012" />
+   <item id="40342262" name="shared_shoes_06" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="17317888" equipped="28" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1457400737" total_durability_points="36000" durability_points="36028" />
+   <item id="40345925" name="engineer_helmet_04" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1457403000" total_durability_points="36000" durability_points="36009" />
+   <item id="40381998" name="soldier_vest_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1457459426" total_durability_points="36000" durability_points="36010" />
+   <item id="40456668" name="sniper_helmet_02" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="12288" equipped="4" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1457561386" total_durability_points="36000" durability_points="36004" />
+   <item id="40580302" name="pt01_default" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1457721736" total_durability_points="36000" durability_points="71478" />
+   <item id="40580356" name="booster_02" attached_to="0" config="" slot="0" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1457722036" expiration_time_utc="1545229418" seconds_left="0" />
+   <item id="40585112" name="engineer_vest_03" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="17825792" equipped="16" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1457726811" total_durability_points="36000" durability_points="36004" />
+   <item id="40612403" name="medic_shoes_02" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1457748381" total_durability_points="36000" durability_points="36000" />
+   <item id="40791737" name="f_engineer_fbs_03" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1457908765" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="40799005" name="shared_shoes_02" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1457913851" total_durability_points="36000" durability_points="36000" />
+   <item id="40802664" name="engineer_helmet_crown_02" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1457916929" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="40836405" name="booster_03" attached_to="0" config="" slot="0" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1457966892" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="40836406" name="booster_04" attached_to="0" config="" slot="0" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1457966892" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="40836476" name="booster_11" attached_to="0" config="" slot="0" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1457966892" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="40839530" name="sniper_shoes_01" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1457971979" total_durability_points="36000" durability_points="36000" />
+   <item id="40842433" name="engineer_fbs_23fb_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1457976362" expiration_time_utc="1542637418" seconds_left="0" />
+   <item id="40842434" name="engineer_fbs_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1457976362" expiration_time_utc="1458321962" seconds_left="0" />
+   <item id="40905571" name="engineer_shoes_01" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458059604" total_durability_points="36000" durability_points="36000" />
+   <item id="40909560" name="ar16_camo06_shop" attached_to="0" config="dm=0;material=camo06;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1458063986" expiration_time_utc="1459359986" seconds_left="0" />
+   <item id="40909561" name="pt23_camo06_shop" attached_to="0" config="dm=0;material=camo06;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1458063986" expiration_time_utc="1459359986" seconds_left="0" />
+   <item id="40909562" name="shg12_camo06_shop" attached_to="0" config="dm=0;material=camo06;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1458063986" expiration_time_utc="1459359986" seconds_left="0" />
+   <item id="40909564" name="sr30_camo06_shop" attached_to="0" config="dm=0;material=camo06;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1458063987" expiration_time_utc="1459359987" seconds_left="0" />
+   <item id="40921313" name="medic_vest_03" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="557056" equipped="8" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458075179" total_durability_points="36000" durability_points="36009" />
+   <item id="40980762" name="pt14_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="3247107" equipped="29" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458146646" total_durability_points="36000" durability_points="36001" />
+   <item id="40988472" name="shared_shoes_07" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458155231" total_durability_points="36000" durability_points="36000" />
+   <item id="41042258" name="medic_hands_01" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458225152" total_durability_points="36000" durability_points="36000" />
+   <item id="41044948" name="soldier_hands_03" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458228388" total_durability_points="36000" durability_points="36000" />
+   <item id="41048085" name="engineer_hands_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458231771" total_durability_points="36000" durability_points="36000" />
+   <item id="41053212" name="sniper_vest_03" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="17408" equipped="4" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458236650" total_durability_points="36000" durability_points="36005" />
+   <item id="41055729" name="sniper_hands_01" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458239128" total_durability_points="36000" durability_points="36000" />
+   <item id="41058611" name="engineer_helmet_lava_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="12582912" equipped="16" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458242117" total_durability_points="36000" durability_points="36006" />
+   <item id="41061970" name="soldier_vest_03" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="17" equipped="1" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458244886" total_durability_points="36000" durability_points="36006" />
+   <item id="41079464" name="shg09_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458259030" total_durability_points="36000" durability_points="36000" />
+   <item id="41079465" name="mg06_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458259030" total_durability_points="36000" durability_points="36000" />
+   <item id="41083911" name="smg12_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458262164" total_durability_points="36000" durability_points="36000" />
+   <item id="41083912" name="pt06_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458262164" total_durability_points="36000" durability_points="36000" />
+   <item id="41083913" name="sr05_shop" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458262165" total_durability_points="36000" durability_points="36000" />
+   <item id="41083914" name="shg12_shop" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458262165" total_durability_points="36000" durability_points="36000" />
+   <item id="41083915" name="shg10_shop" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458262165" total_durability_points="36000" durability_points="36000" />
+   <item id="41087176" name="smg11_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458264434" total_durability_points="36000" durability_points="36004" />
+   <item id="41087177" name="shg15_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458264435" total_durability_points="36000" durability_points="36009" />
+   <item id="41087178" name="sr26_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458264435" total_durability_points="36000" durability_points="36000" />
+   <item id="41090789" name="ar17_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458267292" total_durability_points="36000" durability_points="36000" />
+   <item id="41092735" name="pt15_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458268756" total_durability_points="36000" durability_points="36000" />
+   <item id="41092850" name="sniper_fbs_cf_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1458268899" expiration_time_utc="1460602987" seconds_left="0" />
+   <item id="41092851" name="sr15_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1458268900" expiration_time_utc="1460675450" seconds_left="0" />
+   <item id="41092852" name="sniper_fbs_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1458268900" expiration_time_utc="1460689387" seconds_left="0" />
+   <item id="41092865" name="sniper_fbs_23fb_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1458268917" expiration_time_utc="1460689387" seconds_left="0" />
+   <item id="41093647" name="sr22_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="1024" equipped="4" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458269527" total_durability_points="36000" durability_points="36000" />
+   <item id="41098761" name="shg03_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458274124" total_durability_points="36000" durability_points="36000" />
+   <item id="41131712" name="sr25_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458320209" total_durability_points="36000" durability_points="36000" />
+   <item id="41136806" name="ar01_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458326025" total_durability_points="36000" durability_points="36003" />
+   <item id="41139763" name="smokegrenade01_md" attached_to="0" config="dm=0;material=;pocket_index=2" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1458328709" expiration_time_utc="1458501509" seconds_left="0" />
+   <item id="41145604" name="smg01_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458333747" total_durability_points="36000" durability_points="36000" />
+   <item id="41149018" name="kn05" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458336904" total_durability_points="36000" durability_points="36000" />
+   <item id="41156083" name="smg06_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458342492" total_durability_points="36000" durability_points="36009" />
+   <item id="41181625" name="shared_hands_07" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="7576583" equipped="29" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458361254" total_durability_points="36000" durability_points="36004" />
+   <item id="41245030" name="ar07_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458423311" total_durability_points="36000" durability_points="36009" />
+   <item id="41248129" name="smg03_default" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458426037" total_durability_points="36000" durability_points="36001" />
+   <item id="41311040" name="ar04_default" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="1" equipped="1" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458488350" total_durability_points="36000" durability_points="36003" />
+   <item id="41379099" name="soldier_helmet_07" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="12" equipped="1" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458568925" total_durability_points="36000" durability_points="36002" />
+   <item id="41388637" name="sr12_clr01_shop" attached_to="0" config="dm=0;material=clr01;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458580720" total_durability_points="36000" durability_points="36003" />
+   <item id="41388672" name="smokegrenade" attached_to="0" config="dm=0;material=;pocket_index=100354" slot="5" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1458580824" expiration_time_utc="1470690018" seconds_left="7412213" />
+   <item id="41589405" name="ar16_lava01_shop" attached_to="0" config="dm=0;material=lava01;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1458739037" expiration_time_utc="1458872484" seconds_left="0" />
+   <item id="41589446" name="shg04_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458739035" total_durability_points="36000" durability_points="36003" />
+   <item id="41769199" name="df03" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1458861790" expiration_time_utc="1459039826" seconds_left="0" />
+   <item id="41867439" name="mg04_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458936946" total_durability_points="36000" durability_points="36002" />
+   <item id="41915449" name="sr03_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458963873" total_durability_points="36000" durability_points="36001" />
+   <item id="41918361" name="kn13" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="4325380" equipped="25" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1458966034" total_durability_points="36000" durability_points="36005" />
+   <item id="41918490" name="soldier_fbs_23fb_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1458966089" expiration_time_utc="1459484489" seconds_left="0" />
+   <item id="41918491" name="soldier_fbs_cf_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1458966089" expiration_time_utc="1459657289" seconds_left="0" />
+   <item id="41962353" name="mg05_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1459002132" total_durability_points="36000" durability_points="36004" />
+   <item id="41968920" name="soldier_fbs_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459006101" expiration_time_utc="1459354973" seconds_left="0" />
+   <item id="42004984" name="soldier_helmet_lava_01" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459024823" expiration_time_utc="1459706660" seconds_left="0" />
+   <item id="42005117" name="shg27_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1459024823" total_durability_points="36000" durability_points="36000" />
+   <item id="42099138" name="smg02_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1459094926" total_durability_points="36000" durability_points="36006" />
+   <item id="42108013" name="mg12_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459100026" expiration_time_utc="1460322034" seconds_left="0" />
+   <item id="42149360" name="shg28_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459125640" expiration_time_utc="1460940040" seconds_left="0" />
+   <item id="42232904" name="pt02_shop" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1459208262" total_durability_points="36000" durability_points="36000" />
+   <item id="42287798" name="kn44_fld01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459267819" expiration_time_utc="1462398827" seconds_left="0" />
+   <item id="42298348" name="shg22_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="32768" equipped="8" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1459275725" total_durability_points="36000" durability_points="36006" />
+   <item id="42380239" name="smg05_shop" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459360673" expiration_time_utc="1459792673" seconds_left="0" />
+   <item id="42450628" name="pt29_fld01_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459443575" expiration_time_utc="1462380695" seconds_left="0" />
+   <item id="42462991" name="box_token_cry_money_41" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1459443635" quantity="16" />
+   <item id="42468420" name="pt04_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1459460369" total_durability_points="36000" durability_points="36005" />
+   <item id="42672291" name="kn07_lava01" attached_to="0" config="dm=0;material=lava01;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459620260" expiration_time_utc="1459631060" seconds_left="0" />
+   <item id="42672408" name="smg18_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="1048576" equipped="16" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1459620260" total_durability_points="36000" durability_points="36005" />
+   <item id="42683090" name="medic_fbs_cf_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459626052" expiration_time_utc="1460559829" seconds_left="0" />
+   <item id="42683091" name="medic_fbs_23fb_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459626053" expiration_time_utc="1460559830" seconds_left="0" />
+   <item id="42687404" name="pt21_lava01_shop" attached_to="0" config="dm=0;material=lava01;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459628529" expiration_time_utc="1460507389" seconds_left="0" />
+   <item id="42904094" name="sr17_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1459790070" total_durability_points="36000" durability_points="36003" />
+   <item id="42992751" name="ar41_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459866542" expiration_time_utc="1461162542" seconds_left="0" />
+   <item id="42992753" name="ap03" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459866542" expiration_time_utc="1461162542" seconds_left="0" />
+   <item id="43016144" name="ar06_hlw01_shop" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459896811" expiration_time_utc="1460156011" seconds_left="0" />
+   <item id="43017358" name="shg30_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1459897471" expiration_time_utc="1460156671" seconds_left="0" />
+   <item id="43095079" name="pt22_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1459972101" total_durability_points="36000" durability_points="36012" />
+   <item id="43191024" name="ar01_bra01_shop" attached_to="0" config="dm=0;material=bra01;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460037178" expiration_time_utc="1462468323" seconds_left="0" />
+   <item id="43191025" name="pt01_bra01_shop" attached_to="0" config="dm=0;material=bra01;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460037178" expiration_time_utc="1462468324" seconds_left="0" />
+   <item id="43191026" name="shg21_bra01_shop" attached_to="0" config="dm=0;material=bra01;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460037178" expiration_time_utc="1462468324" seconds_left="0" />
+   <item id="43191027" name="smg12_bra01_shop" attached_to="0" config="dm=0;material=bra01;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460037178" expiration_time_utc="1462468324" seconds_left="0" />
+   <item id="43191028" name="sr14_bra01_shop" attached_to="0" config="dm=0;material=bra01;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460037179" expiration_time_utc="1462468324" seconds_left="0" />
+   <item id="43220444" name="shg32_lava01_shop" attached_to="0" config="dm=0;material=lava01;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460079179" expiration_time_utc="1460089979" seconds_left="0" />
+   <item id="43306228" name="sr09_lava01_shop" attached_to="0" config="dm=0;material=lava01;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460160080" expiration_time_utc="1460170880" seconds_left="0" />
+   <item id="43376944" name="mg06_hlw01_shop" attached_to="0" config="dm=0;material=hlw01;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460216388" expiration_time_utc="1460907588" seconds_left="0" />
+   <item id="43398373" name="ar09_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1460226588" total_durability_points="36000" durability_points="36000" />
+   <item id="43398375" name="shg06_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1460226589" total_durability_points="36000" durability_points="36000" />
+   <item id="43398377" name="smg13_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1460226589" total_durability_points="36000" durability_points="36009" />
+   <item id="43398379" name="sr23_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="1" expired_confirmed="0" buy_time_utc="1460226589" total_durability_points="36000" durability_points="36000" />
+   <item id="43398381" name="engineer_fbs_usf_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460226590" expiration_time_utc="1460831390" seconds_left="0" />
+   <item id="43398382" name="medic_fbs_usf_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460226590" expiration_time_utc="1460831390" seconds_left="0" />
+   <item id="43398384" name="sniper_fbs_usf_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460226591" expiration_time_utc="1460831391" seconds_left="0" />
+   <item id="43398386" name="soldier_fbs_usf_01" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460226591" expiration_time_utc="1460831391" seconds_left="0" />
+   <item id="43711092" name="pt10_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460478532" expiration_time_utc="1460737732" seconds_left="0" />
+   <item id="43711093" name="kn13" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460478532" expiration_time_utc="1460737732" seconds_left="0" />
+   <item id="43711095" name="shg31_shop" attached_to="0" config="dm=0;material=default;pocket_index=0" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="1" buy_time_utc="1460478533" expiration_time_utc="1460737733" seconds_left="0" />
+   <item id="46015878" name="shared_vest_09" attached_to="0" config="" slot="0" equipped="0" default="0" permanent="0" expired_confirmed="0" buy_time_utc="1463277768" expiration_time_utc="1463882568" seconds_left="604763" />
+   <item id="18446744073709551036" name="kn01" attached_to="0" config="dm=0;material=default" slot="4096" equipped="4" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551137" name="pt05_shop" attached_to="0" config="dm=0;material=default" slot="0" equipped="0" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551194" name="ar02_shop" attached_to="0" config="dm=0;material=default" slot="0" equipped="0" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551056" name="sr02_default" attached_to="0" config="dm=0;material=default" slot="0" equipped="0" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551218" name="smg04_shop" attached_to="0" config="dm=0;material=default" slot="0" equipped="0" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551085" name="shg01_default" attached_to="0" config="dm=0;material=default" slot="0" equipped="0" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551089" name="df01" attached_to="0" config="dm=0;material=default" slot="65536" equipped="8" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551200" name="ap01" attached_to="0" config="dm=0;material=default" slot="2" equipped="1" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551184" name="ak01" attached_to="0" config="dm=0;material=default" slot="2097152" equipped="16" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551326" name="medic_helmet_01" attached_to="0" config="dm=0;material=default" slot="0" equipped="0" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551270" name="medic_kneepads_01" attached_to="0" config="dm=0;material=default" slot="294912" equipped="8" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551354" name="sniper_helmet_01" attached_to="0" config="dm=0;material=default" slot="0" equipped="0" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551332" name="sniper_kneepads_01" attached_to="0" config="dm=0;material=default" slot="9216" equipped="4" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551279" name="soldier_helmet_05" attached_to="0" config="dm=0;material=default" slot="0" equipped="0" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551372" name="soldier_kneepads_01" attached_to="0" config="dm=0;material=default" slot="9" equipped="1" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551377" name="engineer_helmet_01" attached_to="0" config="dm=0;material=default" slot="0" equipped="0" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551277" name="engineer_kneepads_01" attached_to="0" config="dm=0;material=default" slot="9437184" equipped="16" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551320" name="shared_hands_01" attached_to="0" config="dm=0;material=default" slot="0" equipped="0" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551282" name="shared_pants_01" attached_to="0" config="dm=0;material=default" slot="19482642" equipped="29" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551262" name="shared_jacket_01" attached_to="0" config="dm=0;material=default" slot="14070797" equipped="29" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551317" name="shared_shoes_01" attached_to="0" config="dm=0;material=default" slot="0" equipped="0" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551361" name="shared_vest_01" attached_to="0" config="dm=0;material=default" slot="0" equipped="0" default="1" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551021" name="ps01" attached_to="0" config="" slot="21647380" equipped="29" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551017" name="ss04" attached_to="0" config="" slot="20480" equipped="4" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551012" name="sp02" attached_to="0" config="" slot="20971520" equipped="16" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551011" name="as01" attached_to="0" config="" slot="20" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551007" name="as06" attached_to="0" config="" slot="20971520" equipped="16" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709551002" name="as02" attached_to="0" config="" slot="20" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550999" name="bn02" attached_to="0" config="" slot="20" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550997" name="rds02" attached_to="0" config="" slot="21647380" equipped="29" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550993" name="as03" attached_to="0" config="" slot="20971520" equipped="16" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550991" name="rds01" attached_to="0" config="" slot="21647380" equipped="29" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550989" name="sp06" attached_to="0" config="" slot="655360" equipped="8" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550987" name="ss01" attached_to="0" config="" slot="20480" equipped="4" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550983" name="bp03" attached_to="0" config="" slot="20480" equipped="4" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550981" name="ss02" attached_to="0" config="" slot="20480" equipped="4" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550976" name="gp01" attached_to="0" config="" slot="20971520" equipped="16" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550975" name="rds04" attached_to="0" config="" slot="655360" equipped="8" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550971" name="sp04" attached_to="0" config="" slot="20480" equipped="4" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550967" name="sp05" attached_to="0" config="" slot="21647380" equipped="29" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550961" name="bn03" attached_to="0" config="" slot="20971520" equipped="16" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550958" name="sc04" attached_to="0" config="" slot="655360" equipped="8" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550955" name="bp01" attached_to="0" config="" slot="20480" equipped="4" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550947" name="sp03" attached_to="0" config="" slot="20" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550943" name="bp02" attached_to="0" config="" slot="20" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550939" name="gpp02" attached_to="0" config="" slot="20971520" equipped="16" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550933" name="bn01" attached_to="0" config="" slot="655360" equipped="8" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550932" name="bn05" attached_to="0" config="" slot="21647380" equipped="29" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550931" name="rds03" attached_to="0" config="" slot="655360" equipped="8" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550926" name="sc01" attached_to="0" config="" slot="20971520" equipped="16" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550925" name="as05" attached_to="0" config="" slot="20971520" equipped="16" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550922" name="as04" attached_to="0" config="" slot="20" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550921" name="sc06" attached_to="0" config="" slot="20480" equipped="4" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550907" name="gp03" attached_to="0" config="" slot="21647380" equipped="29" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550904" name="gp02" attached_to="0" config="" slot="20" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550902" name="ugl01" attached_to="0" config="" slot="20" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550900" name="sc03" attached_to="0" config="" slot="21647380" equipped="29" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550899" name="gpp01" attached_to="0" config="" slot="20" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550893" name="sc02" attached_to="0" config="" slot="21647380" equipped="29" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <item id="18446744073709550891" name="sc05" attached_to="0" config="" slot="20" equipped="1" default="0" permanent="0" expired_confirmed="0" buy_time_utc="0" expiration_time_utc="0" seconds_left="0" />
+   <unlocked_item id="59" />
+   <unlocked_item id="92" />
+   <unlocked_item id="119" />
+   <unlocked_item id="239" />
+   <unlocked_item id="240" />
+   <unlocked_item id="246" />
+   <unlocked_item id="249" />
+   <unlocked_item id="257" />
+   <unlocked_item id="262" />
+   <unlocked_item id="264" />
+   <unlocked_item id="269" />
+   <unlocked_item id="273" />
+   <unlocked_item id="275" />
+   <unlocked_item id="279" />
+   <unlocked_item id="280" />
+   <unlocked_item id="282" />
+   <unlocked_item id="285" />
+   <unlocked_item id="287" />
+   <unlocked_item id="296" />
+   <unlocked_item id="302" />
+   <unlocked_item id="306" />
+   <unlocked_item id="308" />
+   <unlocked_item id="312" />
+   <unlocked_item id="315" />
+   <unlocked_item id="321" />
+   <unlocked_item id="327" />
+   <unlocked_item id="330" />
+   <unlocked_item id="332" />
+   <unlocked_item id="334" />
+   <unlocked_item id="337" />
+   <unlocked_item id="339" />
+   <unlocked_item id="349" />
+   <unlocked_item id="350" />
+   <unlocked_item id="352" />
+   <unlocked_item id="356" />
+   <unlocked_item id="382" />
+   <unlocked_item id="383" />
+   <unlocked_item id="386" />
+   <unlocked_item id="395" />
+   <unlocked_item id="410" />
+   <unlocked_item id="411" />
+   <unlocked_item id="413" />
+   <unlocked_item id="420" />
+   <unlocked_item id="435" />
+   <unlocked_item id="450" />
+   <unlocked_item id="458" />
+   <unlocked_item id="483" />
+   <unlocked_item id="488" />
+   <unlocked_item id="494" />
+   <unlocked_item id="499" />
+   <unlocked_item id="500" />
+   <unlocked_item id="505" />
+   <unlocked_item id="507" />
+   <unlocked_item id="512" />
+   <unlocked_item id="516" />
+   <unlocked_item id="525" />
+   <unlocked_item id="537" />
+   <unlocked_item id="541" />
+   <unlocked_item id="542" />
+   <unlocked_item id="550" />
+   <unlocked_item id="551" />
+   <unlocked_item id="553" />
+   <unlocked_item id="557" />
+   <unlocked_item id="567" />
+   <unlocked_item id="571" />
+   <unlocked_item id="575" />
+   <unlocked_item id="576" />
+   <unlocked_item id="577" />
+   <unlocked_item id="581" />
+   <unlocked_item id="594" />
+   <unlocked_item id="598" />
+   <unlocked_item id="603" />
+   <unlocked_item id="604" />
+   <unlocked_item id="608" />
+   <unlocked_item id="613" />
+   <unlocked_item id="616" />
+   <unlocked_item id="618" />
+   <unlocked_item id="622" />
+   <unlocked_item id="624" />
+   <unlocked_item id="626" />
+   <unlocked_item id="628" />
+   <unlocked_item id="632" />
+   <unlocked_item id="634" />
+   <unlocked_item id="639" />
+   <unlocked_item id="640" />
+   <unlocked_item id="644" />
+   <unlocked_item id="648" />
+   <unlocked_item id="654" />
+   <unlocked_item id="657" />
+   <unlocked_item id="660" />
+   <unlocked_item id="668" />
+   <unlocked_item id="672" />
+   <unlocked_item id="676" />
+   <unlocked_item id="682" />
+   <unlocked_item id="683" />
+   <unlocked_item id="684" />
+   <unlocked_item id="689" />
+   <unlocked_item id="690" />
+   <unlocked_item id="693" />
+   <unlocked_item id="694" />
+   <unlocked_item id="708" />
+   <unlocked_item id="711" />
+   <unlocked_item id="713" />
+   <unlocked_item id="715" />
+   <unlocked_item id="716" />
+   <unlocked_item id="722" />
+   <unlocked_item id="724" />
+   <unlocked_item id="789" />
+   <unlocked_item id="793" />
+   <unlocked_item id="926" />
+   <unlocked_item id="931" />
+   <unlocked_item id="932" />
+   <unlocked_item id="934" />
+   <unlocked_item id="944" />
+   <money game_money="300000" cry_money="300000" crown_money="120000" />
+   <character nick="setTimeout" gender="male" height="1" fatness="0" head="default_head_05" current_class="0" experience="1976900000000" pvp_rating_points="0" banner_badge="4294967295" banner_mark="4294967295" banner_stripe="10506" />
+   <progression>
+      <profile_progression_state profile_id="1252138" mission_unlocked="none,trainingmission,easymission,normalmission,hardmission,survivalmission,zombieeasy,zombienormal,campaignsections,campaignsection1,campaignsection2,campaignsection3,volcanoeasy,volcanonormal,volcanohard,all" tutorial_unlocked="7" tutorial_passed="7" class_unlocked="29" />
+   </progression>
+   <variables>
+   <item key='cvar:net_packetsendrate' value='30'/>
+		<item key='cvar:cl_packetrate' value='30'/>
+		<item key='max_xp_boost_effect' value='3.45'/>
+		<item key='max_vp_boost_effect' value='2.45'/>
+		<item key='max_gm_boost_effect' value='3.05'/>
+		<item key='max_ic_boost_effect' value='1'/>
+		<item key='randombox.offers_count' value='5'/>
+		<item key='url.charge_account' value='http://www.levelupgames.com.br/redirecionador/warface/pagina/compre-cash'/>
+		<item key='url.online_help' value='http://warface.uol.com.br/guia-do-jogo.lhtml'/>
+		<item key='url.charge_account.charge_by_external_app' value='1'/>
+		<item key='url.charge_account.width' value='540'/>
+		<item key='url.charge_account.height' value='545'/>
+		<item key='dailycompetition.rewardPlayersCount' value='1000'/>
+		<item key='clans.clan_item' value='clan_creation_item_01'/>
+		<item key='clans.min_name_size' value='4'/>
+		<item key='clans.max_name_size' value='16'/>
+		<item key='clans.enable_chat' value='1'/>
+		<item key='chat.enable_reference' value='1'/>
+		<item key='quickplay.is_light_mode_filter' value='0'/>
+		<item key='quickplay.newbie_channel_conf' value='quickplay_only'/>
+		<item key='quickplay.skilled_channel_conf' value='quickplay_default'/>
+		<item key='quickplay.pro_channel_conf' value='quickplay_default'/>
+		<item key='friends.limit' value='50'/>
+		<item key='room.server_allocation_timeout' value='10'/>
+		<item key='max_newbie' value='10'/>
+		<item key='max_skilled' value='30'/>
+		<item key='min_online_users' value='0'/>
+		<item key='shop.maxbatchsize' value='5'/>
+		<item key='autorepair_equipment' value='1'/>
+		<item key='cvar:ui_money_refill_enable' value='1'/>
+		<item key='cvar:ui_money_refill_min_rank' value='10'/>
+		<item key='cvar:ui_money_refill_min_repair_percent' value='70'/>
+		<item key='cvar:ui_lobby_rating_tab_min_rank' value='41'/>
+		<item key='cvar:ui_lobby_rating_tab_enabled' value='1'/>
+		<item key='cvar:ui_show_average_searching_time' value='0'/>
+		<item key='cvar:online_newbie_rank' value='5'/>
+		<item key='cvar:cl_autostart_room' value='1'/>
+		<item key='cvar:cl_autostart_pve_room' value='1'/>
+		<item key='cvar:cl_quickplay_channel_switching' value=''/>
+		<item key='cvar:cl_quickplay_gamemode_based' value='0'/>
+		<item key='cvar:cl_statistic_flush_period' value='120'/>
+		<item key='cvar:cl_updateBanners' value='1'/>
+		<item key='cvar:cl_enableBanners' value='1'/>
+		<item key='cvar:g_pve_mission_access_limitation_enabled' value='1'/>
+		<item key='cvar:g_contracts_set_size' value='3'/>
+		<item key='cvar:g_zoom_speed_multiplier' value='0.6'/>
+		<item key='cvar:ui_preinvite_enabled' value='1'/>
+		<item key='cvar:g_preinvite_max_rating_group_size' value='5'/>
+		<item key='cvar:cl_overwolf' value='1'/>
+		<item key='cvar:g_enable_function_time_collector' value='1'/>
+		<item key='cvar:g_clientDfConeAngle' value='70'/>
+		<item key='cvar:cl_shop_skin_validation_enabled' value='0'/>
+		<item key='cvar:e_ParticlesPreload' value='0'/>
+		<item key='cvar:s_OGGStreaming' value='1'/>
+		<item key='cvar:s_SoundMoods' value='0'/>
+		<item key='cvar:cl_payment_enabled' value='0'/>
+	</variables>
+</resync_profile>

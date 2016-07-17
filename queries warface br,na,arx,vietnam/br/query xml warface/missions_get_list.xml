@@ -1,0 +1,118 @@
+<missions_get_list hash='-2054269824' content_hash='-1162631100'>
+
+<mission mission_key='1b3fcd0c-d624-41ae-b539-17564b921e70' no_teams='1' name='@snow_mission_survival_02' setting='survival/snow_fortress_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@snow_survival_mission_desc_02' image='mapImgSurvivalSnow2' difficulty='survival' type='campaignsection2' time_of_day='11:30'>
+
+	<objectives factor='1'>
+		<objective id='0' type='primary'/>
+	</objectives>
+</mission>
+
+<mission mission_key='39adbc0f-3194-4e3c-a877-85b66cde90d5' no_teams='1' name='@na_mission_path01_1' setting='africa/africa_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@mission_desc_africa_path' image='mapImgAfrica_training' difficulty='easy' type='trainingmission' time_of_day='9:06'>
+	<objectives factor='1'>
+		<objective id='0' type='primary'/>
+		<objective id='11' type='secondary'/>
+	</objectives>
+</mission>
+
+<mission mission_key='722f4734-520a-4025-ae8d-f96a0b5120d3' no_teams='1' name='@snow_mission_survival_01' setting='survival/snow_fortress_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@snow_survival_mission_desc_01' image='mapImgSurvivalSnow1' difficulty='survival' type='campaignsection1' time_of_day='11:30'>
+	<objectives factor='1'>
+		<objective id='0' type='primary'/>
+	</objectives>
+</mission>
+
+<mission mission_key='d3f6d949-60d5-4ef5-ae26-f4fce1421630' no_teams='1' name='@ct_mission_zombie' setting='zombie/zombie_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@zombie_mission_desc' image='mapImgZSD1j_h' difficulty='hard' type='zombiehard' time_of_day='9:06'>
+	<objectives factor='1'>
+		<objective id='0' type='primary'/>
+	</objectives>
+</mission>
+
+<mission mission_key='bfa3bb4a-ebed-46ff-9a5f-0c2ad0692fed' no_teams='1' name='@me_mission_easy03_1' setting='afghan/afghan_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@mission_desc_afghan_j03' image='mapImgMEj03_e' difficulty='normal' type='normalmission' time_of_day='9:06'>
+	<objectives factor='2'>
+		<objective id='0' type='primary'/>
+		<objective id='9' type='secondary'/>
+		<objective id='12' type='secondary'/>
+	</objectives>
+
+	<CrownRewardsThresholds>
+		<TotalPerformance bronze='26500' silver='47500' gold='69000'/>
+		<Time bronze='4193304' silver='4193494' gold='4193594'/>
+	</CrownRewardsThresholds>
+
+	<CrownRewards bronze='4' silver='9' gold='15'/>
+
+</mission>
+
+<mission mission_key='3f9e5172-93cc-4c22-a0c9-25fe18d950fd' no_teams='1' name='@snow_mission_survival_04' setting='survival/snow_fortress_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@snow_survival_mission_desc_04' image='mapImgSurvivalSnow' difficulty='survival' type='campaignsections' time_of_day='11:30'>
+	<objectives factor='4'>
+		<objective id='0' type='primary'/>
+	</objectives>
+</mission>
+
+
+
+<mission mission_key='403fea76-8705-4ddf-ade5-4722947ca7f6' no_teams='1' name='@na_mission_volcano_01' setting='survival/africa_survival_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@na_mission_volcano_desc_01' image='mapImgNAvolcano_n' difficulty='normal' type='volcanonormal' time_of_day='9:06'>
+	<objectives factor='1'>
+		<objective id='0' type='primary'/>
+	</objectives>
+</mission>
+
+<mission mission_key='064088a6-de5e-4bdf-858b-e2a330a013df' no_teams='1' name='@bp_mission_hard04_2' setting='kosovo/kosovo_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@pve_bp_end_helicopter' image='mapImgBPj04_%difficulty%' difficulty='hard' type='hardmission' time_of_day='9:06'><objectives factor='2'><objective id='0' type='primary'/><objective id='7' type='secondary'/></objectives><CrownRewardsThresholds><TotalPerformance bronze='17800' silver='28000' gold='42700'/><Time bronze='4193034' silver='4193574' gold='4193754'/></CrownRewardsThresholds><CrownRewards bronze='7' silver='19' gold='34'/></mission>
+
+
+<mission mission_key='102342a7-a878-465b-bec4-59f1542fdf8b' no_teams='1' name='@snow_mission_survival_03' setting='survival/snow_fortress_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@snow_survival_mission_desc_03' image='mapImgSurvivalSnow3' difficulty='survival' type='campaignsection3' time_of_day='11:30'>
+	<objectives factor='2'>
+		<objective id='0' type='primary'/>
+	</objectives>
+</mission>
+
+<mission mission_key='a51e88ac-44f9-424b-bcdd-c401c0309660' no_teams='1' name='@bp_mission_easy04_2' setting='kosovo/kosovo_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@mission_desc_kosovo_j04' image='mapImgBPj04_e' difficulty='easy' type='easymission' time_of_day='9:06'><objectives factor='2'><objective id='0' type='primary'/><objective id='16' type='secondary'/><objective id='18' type='secondary'/></objectives><CrownRewardsThresholds><TotalPerformance bronze='14700' silver='25200' gold='37500'/><Time bronze='4193444' silver='4193814' gold='4193904'/></CrownRewardsThresholds><CrownRewards bronze='2' silver='4' gold='6'/></mission><mission mission_key='d2ffbcb5-8661-4167-8f8b-be48853e6c59' no_teams='1' name='@ct_mission_zombie' setting='zombie/zombie_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@zombie_mission_desc' image='mapImgZSD1j_e' difficulty='easy' type='zombieeasy' time_of_day='9:06'><objectives factor='1'><objective id='0' type='primary'/></objectives></mission>
+
+
+<mission mission_key='38dcd5c0-add8-41f7-b6f5-2012f970ff08' no_teams='1' name='@na_mission_volcano_01' setting='survival/africa_survival_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@na_mission_volcano_desc_01' image='mapImgNAvolcano_s' difficulty='survival' type='volcanosurvival' time_of_day='9:06'>
+	<objectives factor='1'>
+		<objective id='0' type='primary'/>
+	</objectives>
+</mission>
+
+<mission mission_key='2c7ac6c9-1517-47e4-baa3-28a4c0eb4436' no_teams='1' name='@na_mission_volcano_01' setting='survival/africa_survival_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@na_mission_volcano_desc_01' image='mapImgNAvolcano_h' difficulty='hard' type='volcanohard' time_of_day='9:06'>
+	<objectives factor='1'>
+		<objective id='0' type='primary'/>
+	</objectives>
+</mission>
+
+<mission mission_key='6b390cd2-8e2b-4a0e-9293-7fd7c8d36328' no_teams='1' name='@na_mission_easy01_2' setting='africa/africa_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@mission_desc_africa_j01' image='mapImgNAj01_easy' difficulty='normal' type='normalmission' time_of_day='9:06'>
+	<objectives factor='2'>
+		<objective id='0' type='primary'/>
+		<objective id='2' type='secondary'/>
+		<objective id='12' type='secondary'/>
+	</objectives><CrownRewardsThresholds><TotalPerformance bronze='50250' silver='70745' gold='137534'/><Time bronze='4192253' silver='4192963' gold='4193345'/></CrownRewardsThresholds><CrownRewards bronze='4' silver='9' gold='15'/></mission><mission mission_key='8a4aafd6-2ed4-4020-9259-e0827e6391b8' no_teams='1' name='@ct_mission_survival' setting='survival/survival_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@survival_mission_desc' image='mapImgCTsurvival' difficulty='survival' type='survivalmission' time_of_day='9:06'><objectives factor='1'><objective id='0' type='primary'/></objectives></mission>
+
+	<mission mission_key='912c54e5-050b-44e3-be71-23196948cf75' no_teams='1' name='@ct_mission_zombie' setting='zombie/zombie_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@zombie_mission_desc' image='mapImgZSD1j_n' difficulty='normal' type='zombienormal' time_of_day='9:06'><objectives factor='1'>
+		<objective id='0' type='primary'/>
+	</objectives>
+</mission>
+
+
+<mission mission_key='42581df4-b6e2-45cb-b7ff-aa97a82c876f' no_teams='1' name='@ct_mission_easy05_2' setting='china/china_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@mission_desc_china_j05' image='mapImgCTj05_normal' difficulty='easy' type='easymission' time_of_day='9:06'><objectives factor='2'><objective id='0' type='primary'/><objective id='18' type='secondary'/></objectives><CrownRewardsThresholds><TotalPerformance bronze='26700' silver='49300' gold='65700'/><Time bronze='4193384' silver='4193564' gold='4193624'/></CrownRewardsThresholds><CrownRewards bronze='2' silver='4' gold='6'/></mission>
+
+
+<mission mission_key='dd55a0fc-dc56-4a37-a42e-398a9a780192' no_teams='1' name='@na_mission_volcano_01' setting='survival/africa_survival_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@na_mission_volcano_desc_01' image='mapImgNAvolcano_e' difficulty='easy' type='volcanoeasy' time_of_day='9:06'><objectives factor='1'><objective id='0' type='primary'/></objectives></mission></missions_get_list>
+
+
+<data query_name='missions_get_list' hash='-2054269824' content_hash='-1162631100' compressedData='eNrdmkuTm0YQx7+KLi5OU5r3w+V1xXF8yCEpV7ynXKhhHhJrCVSA5Vp/+jQCPa3HamNJa18MNE3Tmj/z655Zv5nmdZ2XRZ2OQpNO8roZjG09vksQxYJTaTTlycCVRROKJu1vESKpZIRgnLx90wcY9Mf0c3i8S0jGovPYIS8pR5zYgDLBDCJKSJ4ZSoLCyaAo0ybYaQ3+cGGn4S75rS7Kr+kyVv2lmudzO0kxTQZ1aJq8GN0lS+tw4RvLqqlCXaeZrUMymJYewszm/Wnah/04/5CO4DRdGH2oXX8/h9+28F+cJYP2VpXPmrw1d9msslim1fosUsqndgTRp3b253T0qXf7BM/APZ/HmLsvk+ZxnXEyaB5n8ICz05nNR0UdXPsi8G5yyK2Mqbft6JHXrB3aMntoHeahHkTrmrJqB2rDPMj9XYKXQWcVpFM9JsO3b4brJ+GiT/uAVMxYnzkcESMGpArMIauVQlpkUjofDPZiv1SFXY3IzDZjTFKyoZKNVe7ssDtcRJwtOfr3tIns6PKuu9NUNi8gs21lgq0flwO49Ojj7ohiXmP5fzTZ9iBk6QLfQFn4ZwinKI1cMY4ExRZxTAWyQXsUjbQ4E4Riz86aY+TlzTFyZI6Rs+YYueUc8yxKb7hBEiYTzLHYSkUlijy6QDglkh3AoWtWI/KtnGZ52NCoMwy7w0Wk6UNvarIjyL+f/iAP6XhbirGt/HLEuhC95UfOp3PGP4uWZRm3KGTBIy5jRMaKiLCj1mNpaAx+//hP17++RQVmO4wbjW0x7A7XYNziPQ+Y7ajw1wewpWFbhaKspuvp0F2dizb6DLSZvWTbwR89jb/3Vfm1+Cd8hU+nvh8DfsblxIP9vmzs5GOoYvuLChcGWVUW3yAUlQI6kkGdT+YBcudqcTmCp+4SaTBcwCvu4YevnuDEMIb5xjNg4IYvn2ovBVy2qR1KZ9O+DrwOaZbBiFjEOVGNowmCKIoMcw5xRymy2BlERQxEeyNw9GdBnb88qPMjUD+L6fXTmc5/OFM4ZjFYJZFWGJjufUTWBziDumy4clZFebJvmpcTZ8Fnf+3te5rVMF5CqD3J7C+9f79b3i+OcaZ3WhlvhXwsOdbaSgSaBMQzkEcLnaFALUx5iwnzcb882Ww1Im3ZwjzdXHx8LutyXg67w0UUae2QQyh8Og4T8Jg1odoR4/ePD5DXq7UMrw5X4Pb8GtxXF0A6UXoT6VTjNdI5VQeQjtkO0oXaQroSz0C6WockK6Yz/gSmE0wZp1a16yoN3YfIUBYc9O0mElhjRx91dhbT2ctjOjvCdHYW1NnToU5/ODWsIAGoAZWXR4M45SCV8x45jonDDBsp8UlqLBrFa1NjS47+PQ/fldqOG+HwGrg9vwYsiHxKl6gvgRSutpACq+cVUtiiZdyHFM53kKLJFlIMfgZS6EbIVaP6BKB4GmPmMoG0lARxIhXSwBCgCtdasCCdMD/zcvLI99mF6C236i2Y9s4Lh6Hh8wB0EhXKJKzpKSY0GoVjxPrXbP3q4yjv3TbMt5KIOmWdhIUTgdUU9OSBo8xahqi23OGQcc5+0e78yF5M73LjzRiZAS2dp0gHmiFucUCGGoZU9MppzySjp2fPosaSrRp7mw3nhz1SgC3tEPUS9mPorfZjBKZio9IqrLhYbYZAqe2a591SS6lgW6WWGsk2Sy3j4oobMsALa6OXiAbP2112DF+rMChgTVWQzJBMn6y1ayDu6dsvyY+93frO9/r+fp3eMbgvry/z55FzCGIIdYIHgbDAQBAeGLQ+iiDKiJGGaxeV+Jn7n6MbLF2Qm++vcCo08RHKqgwUceGg/VQxImuNspo6rWQ8qcGC4mKL4m6cF3a4+PfyDO9e84DFd1MCbOlyjG++VtIX2SzfWgZxwzY2y8WhnRWmd3dW5NYySNJrLoO8EBZHh7wTEhoJppDlNCBmtDVWaQy149fs8Y4skHqX662Qht/9D5K3/wG3C+YV' originalSize='8789'/>
+
+
+<missions_get_list hash='-2054269824' content_hash='-1162631100'><mission mission_key='1b3fcd0c-d624-41ae-b539-17564b921e70' no_teams='1' name='@snow_mission_survival_02' setting='survival/snow_fortress_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@snow_survival_mission_desc_02' image='mapImgSurvivalSnow2' difficulty='survival' type='campaignsection2' time_of_day='11:30'><objectives factor='1'><objective id='0' type='primary'/></objectives></mission><mission mission_key='39adbc0f-3194-4e3c-a877-85b66cde90d5' no_teams='1' name='@na_mission_path01_1' setting='africa/africa_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@mission_desc_africa_path' image='mapImgAfrica_training' difficulty='easy' type='trainingmission' time_of_day='9:06'><objectives factor='1'><objective id='0' type='primary'/><objective id='11' type='secondary'/></objectives></mission><mission mission_key='722f4734-520a-4025-ae8d-f96a0b5120d3' no_teams='1' name='@snow_mission_survival_01' setting='survival/snow_fortress_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@snow_survival_mission_desc_01' image='mapImgSurvivalSnow1' difficulty='survival' type='campaignsection1' time_of_day='11:30'><objectives factor='1'><objective id='0' type='primary'/></objectives></mission><mission mission_key='d3f6d949-60d5-4ef5-ae26-f4fce1421630' no_teams='1' name='@ct_mission_zombie' setting='zombie/zombie_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@zombie_mission_desc' image='mapImgZSD1j_h' difficulty='hard' type='zombiehard' time_of_day='9:06'><objectives factor='1'><objective id='0' type='primary'/></objectives></mission><mission mission_key='bfa3bb4a-ebed-46ff-9a5f-0c2ad0692fed' no_teams='1' name='@me_mission_easy03_1' setting='afghan/afghan_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@mission_desc_afghan_j03' image='mapImgMEj03_e' difficulty='normal' type='normalmission' time_of_day='9:06'><objectives factor='2'><objective id='0' type='primary'/><objective id='9' type='secondary'/><objective id='12' type='secondary'/></objectives><CrownRewardsThresholds><TotalPerformance bronze='26500' silver='47500' gold='69000'/><Time bronze='4193304' silver='4193494' gold='4193594'/></CrownRewardsThresholds><CrownRewards bronze='4' silver='9' gold='15'/></mission><mission mission_key='3f9e5172-93cc-4c22-a0c9-25fe18d950fd' no_teams='1' name='@snow_mission_survival_04' setting='survival/snow_fortress_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@snow_survival_mission_desc_04' image='mapImgSurvivalSnow' difficulty='survival' type='campaignsections' time_of_day='11:30'><objectives factor='4'><objective id='0' type='primary'/></objectives></mission><mission mission_key='403fea76-8705-4ddf-ade5-4722947ca7f6' no_teams='1' name='@na_mission_volcano_01' setting='survival/africa_survival_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@na_mission_volcano_desc_01' image='mapImgNAvolcano_n' difficulty='normal' type='volcanonormal' time_of_day='9:06'><objectives factor='1'><objective id='0' type='primary'/></objectives></mission><mission mission_key='064088a6-de5e-4bdf-858b-e2a330a013df' no_teams='1' name='@bp_mission_hard04_2' setting='kosovo/kosovo_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@pve_bp_end_helicopter' image='mapImgBPj04_%difficulty%' difficulty='hard' type='hardmission' time_of_day='9:06'><objectives factor='2'><objective id='0' type='primary'/><objective id='7' type='secondary'/></objectives><CrownRewardsThresholds><TotalPerformance bronze='17800' silver='28000' gold='42700'/><Time bronze='4193034' silver='4193574' gold='4193754'/></CrownRewardsThresholds><CrownRewards bronze='7' silver='19' gold='34'/></mission><mission mission_key='102342a7-a878-465b-bec4-59f1542fdf8b' no_teams='1' name='@snow_mission_survival_03' setting='survival/snow_fortress_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@snow_survival_mission_desc_03' image='mapImgSurvivalSnow3' difficulty='survival' type='campaignsection3' time_of_day='11:30'><objectives factor='2'><objective id='0' type='primary'/></objectives></mission><mission mission_key='a51e88ac-44f9-424b-bcdd-c401c0309660' no_teams='1' name='@bp_mission_easy04_2' setting='kosovo/kosovo_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@mission_desc_kosovo_j04' image='mapImgBPj04_e' difficulty='easy' type='easymission' time_of_day='9:06'><objectives factor='2'><objective id='0' type='primary'/><objective id='16' type='secondary'/><objective id='18' type='secondary'/></objectives><CrownRewardsThresholds><TotalPerformance bronze='14700' silver='25200' gold='37500'/><Time bronze='4193444' silver='4193814' gold='4193904'/></CrownRewardsThresholds><CrownRewards bronze='2' silver='4' gold='6'/></mission>
+
+<mission mission_key='d2ffbcb5-8661-4167-8f8b-be48853e6c59' no_teams='1' name='@ct_mission_zombie' setting='zombie/zombie_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@zombie_mission_desc' image='mapImgZSD1j_e' difficulty='easy' type='zombieeasy' time_of_day='9:06'><objectives factor='1'><objective id='0' type='primary'/></objectives>
+</mission>
+
+
+<mission mission_key='38dcd5c0-add8-41f7-b6f5-2012f970ff08' no_teams='1' name='@na_mission_volcano_01' setting='survival/africa_survival_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@na_mission_volcano_desc_01' image='mapImgNAvolcano_s' difficulty='survival' type='volcanosurvival' time_of_day='9:06'><objectives factor='1'><objective id='0' type='primary'/></objectives></mission><mission mission_key='2c7ac6c9-1517-47e4-baa3-28a4c0eb4436' no_teams='1' name='@na_mission_volcano_01' setting='survival/africa_survival_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@na_mission_volcano_desc_01' image='mapImgNAvolcano_h' difficulty='hard' type='volcanohard' time_of_day='9:06'><objectives factor='1'><objective id='0' type='primary'/></objectives></mission><mission mission_key='6b390cd2-8e2b-4a0e-9293-7fd7c8d36328' no_teams='1' name='@na_mission_easy01_2' setting='africa/africa_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@mission_desc_africa_j01' image='mapImgNAj01_easy' difficulty='normal' type='normalmission' time_of_day='9:06'><objectives factor='2'><objective id='0' type='primary'/><objective id='2' type='secondary'/><objective id='12' type='secondary'/></objectives><CrownRewardsThresholds><TotalPerformance bronze='50250' silver='70745' gold='137534'/><Time bronze='4192253' silver='4192963' gold='4193345'/></CrownRewardsThresholds><CrownRewards bronze='4' silver='9' gold='15'/></mission>
+
+
+<mission mission_key='8a4aafd6-2ed4-4020-9259-e0827e6391b8' no_teams='1' name='@ct_mission_survival' setting='survival/survival_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@survival_mission_desc' image='mapImgCTsurvival' difficulty='survival' type='survivalmission' time_of_day='9:06'><objectives factor='1'><objective id='0' type='primary'/></objectives></mission>
+
+
+
+<mission mission_key='912c54e5-050b-44e3-be71-23196948cf75' no_teams='1' name='@ct_mission_zombie' setting='zombie/zombie_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@zombie_mission_desc' image='mapImgZSD1j_n' difficulty='normal' type='zombienormal' time_of_day='9:06'><objectives factor='1'><objective id='0' type='primary'/></objectives></mission><mission mission_key='42581df4-b6e2-45cb-b7ff-aa97a82c876f' no_teams='1' name='@ct_mission_easy05_2' setting='china/china_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@mission_desc_china_j05' image='mapImgCTj05_normal' difficulty='easy' type='easymission' time_of_day='9:06'><objectives factor='2'><objective id='0' type='primary'/><objective id='18' type='secondary'/></objectives><CrownRewardsThresholds><TotalPerformance bronze='26700' silver='49300' gold='65700'/><Time bronze='4193384' silver='4193564' gold='4193624'/></CrownRewardsThresholds><CrownRewards bronze='2' silver='4' gold='6'/></mission><mission mission_key='dd55a0fc-dc56-4a37-a42e-398a9a780192' no_teams='1' name='@na_mission_volcano_01' setting='survival/africa_survival_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@na_mission_volcano_desc_01' image='mapImgNAvolcano_e' difficulty='easy' type='volcanoeasy' time_of_day='9:06'><objectives factor='1'><objective id='0' type='primary'/></objectives></mission></missions_get_list>

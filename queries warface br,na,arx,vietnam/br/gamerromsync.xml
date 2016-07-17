@@ -1,0 +1,13 @@
+<gameroom_sync bcast_receivers='jedenias@warface/GameClient,naums2210@warface/GameClient,settimeout@warface/GameClient,tayllor1123@warface/GameClient'>
+
+	<game_room room_id='5587050688799572103' room_type='16'>
+
+		<core teams_switched='0' room_name='Sala de jogo KodakBoY' private='0' players='4' can_start='1' team_balanced='1' min_ready_players='3' revision='25'>
+
+			<players>
+				<player profile_id='2167491' team_id='1' status='1' observer='0' skill='15.000' nickname='KodakBoY' clanName='[X5]GAMING' class_id='0' online_id='tayllor1123@warface/GameClient' group_id='8961f3de-0304-4c92-a1e1-3b689c36be2e' presence='145' experience='56038' rank='15' banner_badge='111' banner_mark='4294967295' banner_stripe='228' region_id='global'/><player profile_id='2540025' team_id='1' status='1' observer='0' skill='8.000' nickname='naums' clanName='' class_id='2' online_id='naums2210@warface/GameClient' group_id='027104df-69d5-46aa-a58f-24eac7fa2737' presence='17' experience='11572' rank='8' banner_badge='4294967295' banner_mark='4294967295' banner_stripe='219' region_id='global'/><player profile_id='2180625' team_id='1' status='1' observer='0' skill='16.000' nickname='jedenias' clanName='PrimeiraLegiao' class_id='3' online_id='jedenias@warface/GameClient' group_id='27abec0d-a45e-44c6-8097-eed9c691781a' presence='17' experience='65311' rank='16' banner_badge='129' banner_mark='56' banner_stripe='220' region_id='global'/><player profile_id='2213770' team_id='1' status='1' observer='0' skill='10.000' nickname='setTimeout' clanName='PRO*NEW' class_id='0' online_id='settimeout@warface/GameClient' group_id='cd3615dd-2183-4e61-9e4c-8caa62e82544' presence='17' experience='23290' rank='10' banner_badge='4294967295' banner_mark='4294967295' banner_stripe='4294967295' region_id='global'/></players><playersReserved/>
+			</core>
+
+			<session id='' status='1' game_progress='0' start_time='1464195417' revision='3'/>
+
+			<custom_params friendly_fire='0' enemy_outlines='1' auto_team_balance='0' dead_can_chat='1' join_in_the_process='1' max_players='5' round_limit='0' class_restriction='253' inventory_slot='2113929215' revision='13'/><mission mission_key='9aaa0599-3588-467e-a8f6-f427162e20ed' no_teams='1' name='@na_mission_path01_1' setting='africa/africa_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@mission_desc_africa_path' image='mapImgAfrica_training' difficulty='easy' type='trainingmission' time_of_day='9:06' revision='13'><objectives factor='1'><objective id='0' type='primary'/><objective id='11' type='secondary'/><objective id='15' type='secondary'/></objectives></mission></game_room></gameroom_sync>

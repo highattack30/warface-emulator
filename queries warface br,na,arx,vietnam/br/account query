@@ -1,0 +1,75 @@
+<friend_list>
+
+<friend jid='' profile_id='2213784' nickname='HomenSombra' status='0' experience='32925' location=''/>
+<friend jid='' profile_id='2214604' nickname='xXHugoxFix' status='0' experience='25036' location=''/>
+<friend jid='' profile_id='2488168' nickname='MC_imperador' status='0' experience='86278' location=''/>
+<friend jid='' profile_id='2513384' nickname='[WF]Mito.exe' status='0' experience='160787' location=''/>
+<friend jid='' profile_id='2518741' nickname='head415' status='0' experience='450' location=''/>
+<friend jid='' profile_id='2532259' nickname='Onpei' status='0' experience='12472' location=''/>
+<friend jid='' profile_id='2540025' nickname='naums' status='0' experience='17514' location=''/>
+</friend_list>
+</query>
+</iq>
+
+
+<iq from='masterserver@warface/main_pve_1' type='get'><query xmlns='urn:cryonline:k01'><friend_list>
+
+
+<iq from='masterserver@warface/main_pve_7' to='settimeout@warface/GameClient' xml:lang='en' id='uid0000000e' type='result'>
+<query xmlns='urn:cryonline:k01'>
+<lobbychat_getchannelid channel='3' channel_id='clan.152808' service_id='conference.warface'/></query></iq>
+
+<iq from='masterserver@warface/main_pve_7' to='settimeout@warface/GameClient' xml:lang='en' id='uid00165369' type='get'><query xmlns='urn:cryonline:k01'><friend_list><friend jid='' profile_id='2213784' nickname='HomenSombra' status='0' experience='32925' location=''/><friend jid='' profile_id='2214604' nickname='xXHugoxFix' status='0' experience='25036' location=''/><friend jid='' profile_id='2488168' nickname='MC_imperador' status='0' experience='86278' location=''/><friend jid='' profile_id='2513384' nickname='[WF]Mito.exe' status='0' experience='160787' location=''/><friend jid='' profile_id='2518741' nickname='head415' status='0' experience='450' location=''/><friend jid='' profile_id='2532259' nickname='Onpei' status='0' experience='12472' location=''/><friend jid='' profile_id='2540025' nickname='naums' status='0' experience='17514' location=''/></friend_list></query></iq>
+
+<iq from='masterserver@warface/main_pve_7' to='settimeout@warface/GameClient' xml:lang='en' id='uid00000014' type='result'><query xmlns='urn:cryonline:k01'><data query_name='get_configs' code='3' from='0' to='6' hash='-1687054999' compressedData='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' originalSize='21892'/></query></iq>
+
+<iq from='masterserver@warface/main_pve_7' to='settimeout@warface/GameClient' xml:lang='en' id='uid0016536c' type='get'>
+	<query xmlns='urn:cryonline:k01'>
+		<clan_info>
+			<clan name='PRO*NEW' clan_id='152808' description='' creation_date='1463967639' master='R3ICOPA' clan_points='1435' members='2' master_badge='4294967295' master_stripe='7507' master_mark='4294967295' leaderboard_position='36428'>
+			<clan_member_info nickname='setTimeout' profile_id='2213770' experience='26502' clan_points='493' invite_date='1463967786' clan_role='3' jid='' status='0'/><clan_member_info nickname='R3ICOPA' profile_id='2530939' experience='67892' clan_points='942' invite_date='1463967639' clan_role='1' jid='' status='0'/>
+			</clan>
+		</clan_info>
+	</query>
+</iq>
+
+
+<iq from='masterserver@warface/main_pvp_newbie_1' to='settimeout@warface/GameClient' xml:lang='en' id='uid00000012' type='result'>
+<query xmlns='urn:cryonline:k01'>
+<data query_name='shop_get_offers' code='2' from='250' to='500' hash='126829448'/>
+
+
+WB
+<shop_buy_offer supplier_id='1' offer_id='18053'/></query>
+
+<shop_buy_offer offer_id='18053' error_status='0'>
+	<purchased_item>
+		<profile_item name='claymoreexplosive04_c' profile_item_id='111921556' offerId='18053' added_expiration='0' added_quantity='3' error_status='0'><item id='111921556' name='claymoreexplosive04_c' attached_to='0' config='dm=0;material=;pocket_index=1049600' slot='0' equipped='0' default='0' permanent='0' expired_confirmed='0' buy_time_utc='1448236912' quantity='3'/>
+		</profile_item>
+		<exp name='exp_item_01' added='50' total='26552' offerId='18053'/>
+	</purchased_item>
+	<money game_money='5010' cry_money='0' crown_money='0'/>
+</shop_buy_offer>
+
+WB
+<shop_buy_offer offer_id='18053' error_status='0'>
+	<purchased_item>
+		<profile_item name='explosivegrenade02_c' profile_item_id='111921564' offerId='18053' added_expiration='0' added_quantity='3' error_status='0'>
+			<item id='111921564' name='explosivegrenade02_c' attached_to='0' config='dm=0;material=;pocket_index=2162689' slot='0' equipped='0' default='0' permanent='0' expired_confirmed='0' buy_time_utc='1448239406' quantity='3'/>
+		</profile_item>
+		<exp name='exp_item_01' added='50' total='26602' offerId='18053'/>
+	</purchased_item>
+	<money game_money='4000' cry_money='0' crown_money='0'/>
+</shop_buy_offer>
+
+
+Unico item
+<shop_buy_offer offer_id='8000' error_status='0'>
+	<purchased_item>
+		<profile_item name='kn02' profile_item_id='121783327' offerId='8000' added_expiration='0' added_quantity='0' error_status='0'>
+			<item id='121783327' name='kn02' attached_to='0' config='' slot='0' equipped='0' default='0' permanent='1' expired_confirmed='0' buy_time_utc='1466427941' total_durability_points='36000' durability_points='36000'/>
+		</profile_item>
+	</purchased_item>
+	<money game_money='4425' cry_money='0' crown_money='0'/>
+</shop_buy_offer>
+

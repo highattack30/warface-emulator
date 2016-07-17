@@ -1,0 +1,11 @@
+<iq from='masterserver@warface/main_pve_1' to='rubens48574@warface/GameClient' xml:lang='en' id='uid00000068' type='result'>
+
+<query xmlns='urn:cryonline:k01'>
+
+<create_profile user_id='4041347' version='1.12600.570.21500' token='' nickname='hundlee' region_id='global' head='default_head_02' hw_id='699841557' resource='main_pve_1' build_type='--release'/>
+
+</query>
+
+<error type='continue' code='8' custom_code='1'>
+
+<internal-ser

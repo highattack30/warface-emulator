@@ -1,0 +1,25 @@
+<server resource='main_pvp_skilled_5' server_id='205' channel='pvp_skilled' rank_group='all' load='0.183529' online='117' min_rank='16' max_rank='40' bootstrap=''>
+	<load_stats>
+	<load_stat type='quick_play' value='219'/>
+	<load_stat type='survival' value='255'/>
+	<load_stat type='pve' value='255'/>
+	</load_stats>
+</server>
+
+
+<server resource='main_pvp_pro_4' server_id='304' channel='pvp_pro' rank_group='all' load='0.089412' online='57' min_rank='41' max_rank='80' bootstrap=''>
+	<load_stats>
+	<load_stat type='quick_play' value='239'/>
+	<load_stat type='survival' value='255'/>
+	<load_stat type='pve' value='255'/>
+</load_stats>
+</server>
+
+
+<iq to="k01.warface" id="uid00000009" type="get" from="settimeout@warface/GameClient" xmlns="jabber:client" xmlns:stream="http://etherx.jabber.org/streams">
+	<query xmlns="urn:cryonline:k01">
+		
+		<switch_channel version="1.12600.570.21500" token="$WF_1234567890_20150307234312_8KVQm1rHcSiviMwq" profile_id="1" user_id="1234567890" region_id="global" resource="main_pvp_skilled_5" build_type="--release"/>
+
+
+	</query></iq>

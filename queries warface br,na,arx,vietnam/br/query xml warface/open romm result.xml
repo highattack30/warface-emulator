@@ -1,0 +1,25 @@
+<gameroom_open room_name='Sala de jogo setTimeout' team_id='0' status='0' class_id='0' group_id='' room_type='1' private='0' mission='ed4f528f-e08f-46a1-b508-1f8aad45db2b' friendly_fire='0' enemy_outlines='1' auto_team_balance='0' dead_can_chat='0' join_in_the_process='1' max_players='5' round_limit='0' inventory_slot='0'><class_rifleman enabled='1' class_id='0'/><class_engineer enabled='1' class_id='4'/><class_medic enabled='1' class_id='3'/><class_sniper enabled='1' class_id='2'/>
+
+
+</gameroom_open>
+
+<gameroom_open>
+
+<game_room room_id='13404746110824616053' room_type='1'>
+
+<core teams_switched='0' room_name='Sala de jogo setTimeout' private='0' players='1' can_start='0' team_balanced='1' min_ready_players='3' revision='2'>
+
+<players>
+
+<player profile_id='2213770' team_id='1' status='0' observer='0' skill='9.000' nickname='setTimeout' clanName='' class_id='0' online_id='settimeout@warface/GameClient' group_id='' presence='17' experience='14622' rank='9' banner_badge='4294967295' banner_mark='4294967295' banner_stripe='4294967295' region_id='global'/>
+
+</players>
+<playersReserved/>
+
+<team_colors>
+<team_color id='1' color='4294907157'/>
+<team_color id='2' color='4279655162'/>
+</team_colors>
+</core>
+
+<session id='' status='0' game_progress='0' start_time='18446744011573962016' revision='2'/><custom_params friendly_fire='0' enemy_outlines='1' auto_team_balance='0' dead_can_chat='1' join_in_the_process='1' max_players='5' round_limit='0' class_restriction='253' inventory_slot='2113929215' revision='2'/><mission mission_key='ed4f528f-e08f-46a1-b508-1f8aad45db2b' no_teams='1' name='@na_mission_path01_1' setting='africa/africa_base' mode='pve' mode_name='@PvE_game_mode_desc' mode_icon='pve_icon' description='@mission_desc_africa_path' image='mapImgAfrica_training' difficulty='easy' type='trainingmission' time_of_day='9:06' revision='2'><objectives factor='1'><objective id='0' type='primary'/><objective id='17' type='secondary'/></objectives></mission><kick_vote_params success='0.8' timeout='60' cooldown='300' revision='1'/><room_master master='2213770' revision='2'/></game_room></gameroom_open>

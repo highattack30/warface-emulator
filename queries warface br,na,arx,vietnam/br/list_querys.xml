@@ -1,0 +1,105 @@
+<iq from='masterserver@warface/pvp_pro_3' to='21954852@warface/GameClient' xml:lang='en' id='uid00000029' type='result'><query xmlns='urn:cryonline:k01'><notify_expired_items/></query></iq>
+
+
+<query xmlns='urn:cryonline:k01'><peer_status_update nickname='Mottly66' profile_id='284943' status='33' experience='4565903' place_token='@ui_playerinfo_pvemission' place_info_token='@normalmission' mode_info_token='' mission_info_token=''/>
+
+<iq to='masterserver@warface/pvp_pro_3' id='uid00000029' type='get' from='21954852@warface/GameClient' xmlns='jabber:client'><query xmlns='urn:cryonline:k01'><notify_expired_items><item item_id='39157803'/></notify_expired_items></query></iq>
+
+<data query_name='switch_channel' compressedData='eNqdV8tu4zgQ/BXddAnkVx7rQTLAziwwp8UGmL0TFNWSCVOkhqTsOF+/RT0cy5Fsz/pgU2R1q9ldXaSf3V56sWFiw7Um9fUZA8uFJxtpKbYvsSP/ryzJ1D6OCtIZ2Ze45IriaEOy2PiXeBFHOfeanHuJ52GaZy9xRjmvlWfhic0f4kjU1pL2TCgegMs4oreKrCQtCD7W6/vV4yqOql3FLPdSF6wyUvsWmobgLEt5VgB8v1zfrx+fluuH40rJ7XZ0wXkrq2AzX8TN5ny/Vdc+Rt1jE3s3ZhI7KJRJuUqqHTFE4MjupKBmRRidkw2BJ3tucy4onn19np05r6zJpSKG38IiOdJoRMM9Rf1K8LVYPiwXqz/iqJQtpNbKiC1hSRtNd95yqZGNbvmOuDv0Y20sKtE/oW5ZP3Y1ot19rL2bMpUUbLtha3oneFlxWWhHwgPnzicW5xPL84nV3c4owbVpnHfjznv3FAK747pOpWtA7bDDcKXiyNfeWMnVyeafTmYrMKaba9hzAluuQ+p3HLhUEbIuPZXRlg6BpG/srWKpMc4zynPEG0fISQ02rILVELq7HVqUN0OlGIcuhlDLdYa6mLfEAGcdE6bWH+iHIbq2KgltWhDjYojceF99mc2GqwkMPnswWklNaFBVDcwd7Pf7fU/tRJhyRnpW8JJmW232itCEKXc0G/rMuFQHgCvyMjAjsQQX2aviB+zo+yDMxRyfoTkqq10SvlmYPEKbGWGJB5/NEpsvxkxLqZlGkMzJdzqa349CUZnP0MXjGJZ0YFbo68nqhbUeZ6mThinwrxqyWiEpiXRMBQVlpcmIQREguker+ZSVpj36t9cZFrToaHREMRT3MOXBbaVCEa+56BR8ygtE7H95yIPkZy5RspQnDD/brzWmTILmQsIhEUa05ff9SXTk0eeWaxN0EdJl4KNxzzGgUtceNYJwR+ByiHMbUwUypRxH6IBLZx3Lg5QRdNMyQn6qkvQ0m6BmX2oJVmg6BD4hVtay67dMwiagK9vJTExbtZHidBancT5N2OOcTA/9oe15OvLm1Y2W7Taza/tE3veMgxscIodDxYpN4wHsmGqgxrSraddCgxAfRuBCsVA4HNrWs8DIi3EN0OHWcIvFR7P0vdTex7Cdo+k1y6DMjYQEUc6uvTFcQaTzOJhyVbtNqLI0J1bL+bhdXWW4u3xrblXu2kvaOt4CLppU9ZcfHFi4KbFGG9qOv4URRRAgH26tDmzwQ1VfjRq8ozbMVQQZLCFRslLyVHyTx3HiVZak3mH+xrg+8EF2OqIX1tQVuyQXfRoNKL43Kr/ylu7oyWstjiqJlEDiBGTnorFjP3EwZ38bk7mLrYMcI0Xa/5V/h1z8qYsTNXqaoEyQx6C1mgEos/GCjtkSe0UTSYEb3aslZfhluGP//Pjx0+OOUJ72zXiyLIEsGplh3jStc1NEItxCD0G2xys/O7mCzo5/oTA++3v1HyzSz38=' originalSize='3439'/></query></iq>
+
+<iq from='k01.warface' to='21954852@warface/GameClient' id='uid00000003' type='result'>
+	<query xmlns='urn:cryonline:k01'>
+		<account user='21954852' active_token='' survival_lb_enabled='1'>
+			<masterservers>
+				
+				<server resource='pvp_pro_1' server_id='301' channel='pvp_pro' rank_group='all' load='0.329412' online='280' min_rank='13' max_rank='80' bootstrap=''>
+					<load_stats>
+						<load_stat type='quick_play' value='188'/>
+						<load_stat type='survival' value='255'/>
+						<load_stat type='pve' value='255'/>
+					</load_stats>
+				</server>
+
+				<server resource='pvp_newbie_3' server_id='103' channel='pvp_newbie' rank_group='all' load='0.170588' online='145' min_rank='1' max_rank='12' bootstrap=''>
+					<load_stats>
+						<load_stat type='quick_play' value='222'/>
+						<load_stat type='survival' value='255'/>
+						<load_stat type='pve' value='255'/>
+					</load_stats>
+				</server>
+
+				<server resource='pvp_pro_3' server_id='303' channel='pvp_pro' rank_group='all' load='0.701176' online='596' min_rank='13' max_rank='80' bootstrap=''>
+					<load_stats>
+						<load_stat type='quick_play' value='255'/>
+						<load_stat type='survival' value='255'/>
+						<load_stat type='pve' value='255'/>
+					</load_stats>
+				</server>
+
+				<server resource='pvp_newbie_2' server_id='102' channel='pvp_newbie' rank_group='all' load='0.198823' online='169' min_rank='1' max_rank='12' bootstrap=''>
+					<load_stats>
+						<load_stat type='quick_play' value='221'/>
+						<load_stat type='survival' value='255'/>
+						<load_stat type='pve' value='255'/>
+					</load_stats>
+				</server>
+
+				<server resource='pvp_pro_2' server_id='302' channel='pvp_pro' rank_group='all' load='0.335294' online='285' min_rank='13' max_rank='80' bootstrap=''>
+					<load_stats>
+						<load_stat type='quick_play' value='192'/>
+						<load_stat type='survival' value='255'/>
+						<load_stat type='pve' value='255'/>
+					</load_stats>
+				</server>
+
+				<server resource='pvp_newbie_1' server_id='101' channel='pvp_newbie' rank_group='all' load='0.178823' online='152' min_rank='1' max_rank='12' bootstrap=''>
+					<load_stats>
+						<load_stat type='quick_play' value='216'/>
+						<load_stat type='survival' value='255'/>
+						<load_stat type='pve' value='255'/>
+					</load_stats>
+				</server>
+
+				<server resource='pve_1' server_id='1' channel='pve' rank_group='all' load='0.234118' online='199' min_rank='1' max_rank='80' bootstrap=''>
+					<load_stats>
+						<load_stat type='quick_play' value='255'/>
+						<load_stat type='survival' value='234'/>
+						<load_stat type='pve' value='232'/>
+					</load_stats>
+				</server>
+
+				<server resource='pve_3' server_id='3' channel='pve' rank_group='all' load='0.228235' online='194' min_rank='1' max_rank='80' bootstrap=''>
+					<load_stats>
+						<load_stat type='quick_play' value='255'/>
+						<load_stat type='survival' value='230'/>
+						<load_stat type='pve' value='239'/>
+					</load_stats>
+				</server>
+
+				<server resource='pve_5' server_id='5' channel='pve' rank_group='all' load='0.257647' online='219' min_rank='1' max_rank='80' bootstrap=''>
+					<load_stats>
+						<load_stat type='quick_play' value='255'/>
+						<load_stat type='survival' value='243'/>
+						<load_stat type='pve' value='227'/>
+					</load_stats>
+				</server>
+
+				<server resource='pve_2' server_id='2' channel='pve' rank_group='all' load='0.230588' online='196' min_rank='1' max_rank='80' bootstrap=''>
+					<load_stats>
+						<load_stat type='quick_play' value='255'/>
+						<load_stat type='survival' value='239'/>
+						<load_stat type='pve' value='227'/>
+					</load_stats>
+				</server>
+
+				<server resource='pve_4' server_id='4' channel='pve' rank_group='all' load='0.271765' online='230' min_rank='1' max_rank='80' bootstrap=''>
+					<load_stats>
+						<load_stat type='quick_play' value='255'/>
+						<load_stat type='survival' value='241'/>
+						<load_stat type='pve' value='237'/>
+					</load_stats>
+				</server>
+			</masterservers>
+		</account>
+	</query>
+</iq>

@@ -1,0 +1,6 @@
+<persistent_settings_get hash="">
+ <options gameplay.auto_repair="1" _hash_="-1556516251" controls.crouch.toggle="0" controls.zoom.toggle="0" social.chat.dnd_mode="0" controls.mouse.sensitivity="56.020275" gameplay.crosshair="2" controls.binds.player.crouch="mouse3" controls.binds.player.prone="lctrl"/>
+ <sponsor id="1" _hash_="-2110980047"/>
+ <ui clans.active_tab="1" _hash_="-202538111"/>
+ <wcs rifleman.pistol="pt14" rifleman.pistol.muzzle="pt14_sc_d" rifleman.pistol.scope="pt14_rds_d" rifleman.primary="mg07_gold01" rifleman.primary.scope="rds01_gold01" medic.pistol="pt14" medic.pistol.muzzle="pt14_sc_d" medic.pistol.scope="pt14_rds_d" medic.primary="shg05" medic.primary.scope="rds04" engineer.pistol="pt14" engineer.pistol.muzzle="pt14_sc_d" engineer.pistol.scope="pt14_rds_d" engineer.primary="smg08" medic.primary.muzzle="sp06" recon.pistol="pt14" recon.primary="sr04" recon.primary.muzzle="" recon.primary.scope="ss01" recon.primary.underbarrel="bp01" engineer.primary.scope="rds02" _hash_="-1801716582" rifleman.primary.muzzle="sp03_gold01" medic.primary.underbarrel="" engineer.primary.muzzle="sp02" engineer.primary.underbarrel="gpp02" recon.pistol.muzzle="pt14_sc_d" recon.pistol.scope="pt14_rds_d" rifleman.primary.underbarrel="gpp01_gold01"/>
+</persistent_settings_get>
