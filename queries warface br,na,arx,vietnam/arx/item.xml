@@ -1,0 +1,34 @@
+<iq from='global.pve_5@conference.warface' to='2668@warface/GameClient' id='uid00000013' type='result'>
+	<query xmlns='http://jabber.org/protocol/disco#items'>
+		<item jid='global.pve_5@conference.warface/_____AK--103___' name='_____AK--103___'/>
+		<item jid='global.pve_5@conference.warface/NECHTO777' name='NECHTO777'/>
+		<item jid='global.pve_5@conference.warface/..B3' name='..B3'/>
+		<item jid='global.pve_5@conference.warface/jhonesboy' name='jhonesboy'/>
+		<item jid='global.pve_5@conference.warface/Dr..Zen' name='Dr..Zen'/>
+		<item jid='global.pve_5@conference.warface/**HeadShot**' name='**HeadShot**'/>
+		<item jid='global.pve_5@conference.warface/Magamed2326' name='Magamed2326'/>
+		<item jid='global.pve_5@conference.warface/MSdelos..' name='MSdelos..'/>
+		<item jid='global.pve_5@conference.warface/slon' name='slon'/>
+		<item jid='global.pve_5@conference.warface/mahach1101' name='mahach1101'/>
+		<item jid='global.pve_5@conference.warface/-vlad-nagibaeyt-' name='-vlad-nagibaeyt-'/>
+		<item jid='global.pve_5@conference.warface/Mirambek' name='Mirambek'/>
+		<item jid='global.pve_5@conference.warface/Hey_BRO' name='Hey_BRO'/>
+		<item jid='global.pve_5@conference.warface/CryziPenciL' name='CryziPenciL'/>
+		<item jid='global.pve_5@conference.warface/.xed-shot-lol-.-' name='.xed-shot-lol-.-'/>
+		<item jid='global.pve_5@conference.warface/GARRI' name='GARRI'/>
+		<item jid='global.pve_5@conference.warface/By.Happy' name='By.Happy'/>
+		<item jid='global.pve_5@conference.warface/vakban2345' name='vakban2345'/>
+		<item jid='global.pve_5@conference.warface/Primorec' name='Primorec'/>
+		<item jid='global.pve_5@conference.warface/111Niger111' name='111Niger111'/>
+		<item jid='global.pve_5@conference.warface/-Haikaiss.' name='-Haikaiss.'/>
+		<item jid='global.pve_5@conference.warface/boec12345' name='boec12345'/>
+		<item jid='global.pve_5@conference.warface/SuckMyPines' name='SuckMyPines'/>
+		<item jid='global.pve_5@conference.warface/_-A-R-X_' name='_-A-R-X_'/>
+		<item jid='global.pve_5@conference.warface/...FROLL...' name='...FROLL...'/>
+		<item jid='global.pve_5@conference.warface/--LongFeed--' name='--LongFeed--'/>
+		<item jid='global.pve_5@conference.warface/DONAT_LOVE' name='DONAT_LOVE'/>
+		<item jid='global.pve_5@conference.warface/simpleXX' name='simpleXX'/>
+		<item jid='global.pve_5@conference.warface/tgm1' name='tgm1'/>
+		<item jid='global.pve_5@conference.warface/Darchiev_13' name='Darchiev_13'/>
+	</query>
+</iq>

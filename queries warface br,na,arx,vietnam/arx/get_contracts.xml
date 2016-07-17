@@ -1,0 +1,1 @@
+<iq from='masterserver@warface/main_pvp_newbie_2' to='settimeout@warface/GameClient' xml:lang='en' id='uid0000002d' type='result'><query xmlns='urn:cryonline:k01'><get_contracts><contract profile_id='2213770' rotation_id='3' contract_name='' current='0' total='0' rotation_time='473.452889' status='0' is_available='0'/></get_contracts></query>

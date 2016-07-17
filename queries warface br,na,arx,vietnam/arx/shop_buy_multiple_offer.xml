@@ -1,0 +1,33 @@
+<iq from='masterserver@warface/pvp_skilled_5' to='2668@warface/GameClient' xml:lang='en' id='uid00000042' type='result'>
+	<query xmlns='urn:cryonline:k01'>
+		<data query_name='shop_buy_multiple_offer' error_status='0' compressedData='eNrtlsFuozAQhl+Fm48Z2xiwWnLfp7BcMIm1gKkxu+Xtd6BNNiHQSmmOlXLAHvzP/P40E577o+vUyzCqZqiD7WqjXFUZHxnvnVd90GHocwJk/9wNvjjq3pTKBtPsn81bF7W6MTnBp3lPASWRLktT5oQyQaLggq5zItOUxRmJZuVfUzADXO9Q07vKYs7p9IdYVev++KLbA4kuo8riOZkkqCRulN6TKqzDeh2sazEQlXo8BV4H3QYbxsnIirM5+5X+TSk6BF0cUSq4WaRwbWUPOSmbHJ4aHYy36PSpc8VvE5RtS/OWcxYnkDES9bULORExpdkkbl4H23XTJTFJotJUGq9+Vu2Mb3Rr2vfVbAdTzrl8Mx3A3YlVsI1RQyjQJqZIUhTmH+/P9q9ekIA/4AnWYVCq7FVtKszA4hQSCcnEYXd51V+hFXBFVi7Jyg2yqFW73v4xB29aXRpgqtiATFN+I7oCGW4B8y8Bz9qfVXQPa3qizNglYPoIviLjqUT//00yoOyb2PiyITH8oIYUsMaK/zTkuSHTWLK1hkS7FMR3yS4bUtCHkaU/ZD8lSwGyeIWsYEzwO8gu/kUFW4xFwTbQFrUeG+fNecJBvD1spbhRfdiwlWfEGyXdNW1xxiQsPs9cDpIygCve8BDeaEHyy9Gbwtrk3S0/jhrXmjE6oHE1P+YkTinP8DIKP562kmnl/ranNZPA0ll946ts/w8J4Stw' originalSize='2479'/>
+	</query>
+</iq>
+
+<shop_buy_multiple_offer error_status='0'>
+	<purchased_item>
+		<exp name='exp_item_01' added='50' total='976848' offerId='18048'/>
+		<profile_item name='smokegrenade04_c' profile_item_id='9667194' offerId='18048' added_expiration='0' added_quantity='1' error_status='0'>
+			<item id='9667194' name='smokegrenade04_c' attached_to='0' config='dm=0;material=;pocket_index=2098176' slot='23091200' equipped='20' default='0' permanent='0' expired_confirmed='0' buy_time_utc='1460666738' quantity='2670'/>
+		</profile_item>
+		<exp name='exp_item_01' added='50' total='976898' offerId='18049'/>
+		<profile_item name='flashbang' profile_item_id='9667245' offerId='18049' added_expiration='3 day' added_quantity='0' error_status='0'>
+			<item id='9667245' name='flashbang' attached_to='0' config='dm=0;material=;pocket_index=3246082' slot='5411845' equipped='29' default='0' permanent='0' expired_confirmed='0' buy_time_utc='1460671183' expiration_time_utc='1490230836' seconds_left='24448199'/>
+		</profile_item>
+		<exp name='exp_item_01' added='125' total='977023' offerId='18050'/>
+		<profile_item name='explosivegrenade02_c' profile_item_id='9667173' offerId='18050' added_expiration='0' added_quantity='3' error_status='0'><item id='9667173' name='explosivegrenade02_c' attached_to='0' config='dm=0;material=;pocket_index=1' slot='22' equipped='1' default='0' permanent='0' expired_confirmed='0' buy_time_utc='1460583799' quantity='2009'/></profile_item><exp name='exp_item_01' added='50' total='977073' offerId='18051'/><profile_item name='flashbang' profile_item_id='9667245' offerId='18051' added_expiration='1 day' added_quantity='0' error_status='0'><item id='9667245' name='flashbang' attached_to='0' config='dm=0;material=;pocket_index=3246082' slot='5411845' equipped='29' default='0' permanent='0' expired_confirmed='0' buy_time_utc='1460671183' expiration_time_utc='1490317236' seconds_left='24534598'/></profile_item>
+		<exp name='exp_item_01' added='50' total='977123' offerId='18052'/>
+		<profile_item name='flashbang' profile_item_id='9667245' offerId='18052' added_expiration='1 day' added_quantity='0' error_status='0'><item id='9667245' name='flashbang' attached_to='0' config='dm=0;material=;pocket_index=3246082' slot='5411845' equipped='29' default='0' permanent='0' expired_confirmed='0' buy_time_utc='1460671183' expiration_time_utc='1490403636' seconds_left='24620997'/>
+		</profile_item>
+
+	</purchased_item>
+	<money game_money='474185' cry_money='6' crown_money='29027'/>
+</shop_buy_multiple_offer>
+
+		<query>
+			<shop_buy_multiple_offer supplier_id='1'>
+				<offer id='18048'/>
+				<offer id='18049'/>
+				<offer id='18050'/>
+			</shop_buy_multiple_offer>
+		</query>

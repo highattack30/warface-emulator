@@ -1,0 +1,5 @@
+<iq to='masterserver@warface/main_pvp_newbie_2' id='uid00000030' type='get' from='settimeout@warface/GameClient' xmlns='jabber:client'>
+	<query xmlns='urn:cryonline:k01'>
+		<data query_name='setcharacter' gender='male' height='1' fatness='0' current_class='4' compressedData='eNqtlEuOwyAQRK/CjmVo/ighV4kY3LGt8ScyRMrxh4yUyJsEWfIWoa5X1QWnhDl2YQkx40JanBpcPB3DgJR02Ldd9hQouYY8YUqeMkrifVlwypc4hOeJpOdTn3EkfVOuWim1kZIZYZhTCjSTlExhRE+XJjFBScg5xA6bS57/x6VhLhpaKaGfw+fp2reeNqNnxzEUqD4MvsFruA/5eJvjL+ZLXygfXnCjLT18U1dOv9Tb22dxDloaYbfJA4ACYSoA1r0AUmR8VwAOziimKwDmDfBz+wKwMfqKqBYr12onUVkRFW7dNNg169I1Z01t2eLdtpDKYj7adgbUVvPgpGC1CDi8c0/Ph/cJQG60L5mr9YzZ1cphV++KS24LcQE4rL+r8x+wHnQ1' originalSize='1213'/>
+	</query>
+</iq>

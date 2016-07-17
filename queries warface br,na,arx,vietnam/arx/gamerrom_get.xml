@@ -1,0 +1,13 @@
+<iq from='masterserver@warface/pvp_newbie_5' to='172@warface/GameClient' xml:lang='en' id='uid00000055' type='result'><query xmlns='urn:cryonline:k01'>
+	<data query_name='gameroom_get' left='0' token='17854' compressedData='eNrNll2v2yYYx7+Kr+qrJGCDDVsStaq6bhdHlXqzS0QA59BjG8uQdNmn3wPOOc3L2qbdzlYpkhP487z/TJZb2ZnRuU5sTcha04RVjvIsuAfTr3JcM0ry9TKKRFRlSWo1bBFWU1YXBSUM8ZKQkpX5tB0Og1nlBZxTbjRZMLLzwn+0Qd0bncwnWQ9GV/mrfXDiVxdeyMH5n3329tXdm+z9u3d3eTaMdi+DSSeGVh7M6KPZTMle+CDHY6hgXmxkK3sVreM862wvRiP1QTydiqGZvfXWxazyxXrZWR9/ZceneDCHVU6owaxoypkmVM2IoXrGECWzRpHNZtOoombgv3ci5ZScTVm8HPaDeDSlrY+OU4KiaaT4aLXxYTQm5Jk3Idh+u8rhxOJys3MajMHq9FWcGI/SJwfGq6PCqpjRoyD16Wk9z6JwtENIab+8Vk2GbCe34KaTw2/d9veTcLRtGqt2bYDS9G7sZAvlTs2FpwUjrhFawib/qbyo8HrpNh+MCnZvfNZIFdx4LPzimMV66c3UAuhl2PnUzBTaMLrtCHtpJTVaRG9wnhFS1YQgjGldcpg8XF01Vu18gOka5AgtyprRml63B9HYcZok05vuINwutLY3kw+5C1NLH+corWoYIRFnTd3LkHr9wcFkwSfcpyBVijEOnPzj06ilkNyu16K1nZ1mVLXSe5hJKKxVUzcKChWz/d70UJqD8K0DaYFxyQteYHqVVkKmkz6YMZseMNUIKsKupIsnXP+WXDiCEWGMUs54jeuSou8Bdz6fv3WtFr9Yfz+f34ovJmf84n+XX9mopqrKarahkgG/Rs2kKoBfiTimFacyVvYTv+jr/A5hA7PUSmUu2D3dmLiFlWtuo+wSuAtyzyWfIzeqzl8AZ9yehnMzt5jMS/zPwS2uwMUX4JKKVqgmmP34uGL8bLxiRIsSfSuvmCHMOUG0KgkrwAQv+fcAe3cY/7QP4rWD4bgV1+o5acW6xoqTalY3Ddy2iFC4bUs6wwCuJKguDCq+kdagO+Fsq83gLu/a0619+cgsrF4zG6VfYfZc8jlmo+oLzJ5He/ttO6/4fwctr/kzQYv/L2gRrwGlit8EbQF3JC2+CO3i9E/0+i9eot9D' originalSize='2899'/></query>
+</iq>
+
+<iq to='masterserver@warface/pvp_newbie_5' id='uid00000036' type='get' from='172@warface/GameClient' xmlns='jabber:client'>
+	<query xmlns='urn:cryonline:k01'>
+		<setcharacter gender='male' height='1' fatness='0' current_class='0'>
+			<item id='18446744073709551471' name='rds01' attached_to='0' slot='21647380' config='dm=0;material=default;pocket_index=1082369'/>
+			<item id='18446744073709551441' name='as06' attached_to='0' slot='20971520' config='dm=0;material=default;pocket_index=2097152'/>
+			<item id='18446744073709551390' name='sc03' attached_to='0' slot='21647380' config='dm=0;material=default;pocket_index=3213314'/>
+		</setcharacter>
+	</query>
+</iq>

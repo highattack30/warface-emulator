@@ -1,0 +1,1 @@
+<iq id='uid00000001' type='set' from='settimeout@warface/GameClient' xmlns='jabber:client'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><resource>GameClient</resource></bind></iq>

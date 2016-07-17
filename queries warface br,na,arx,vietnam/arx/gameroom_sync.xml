@@ -1,0 +1,14 @@
+<iq from='k01.warface' to='172@warface/GameClient' type='get' id='3301609612'>
+	<query xmlns='urn:cryonline:k01'>
+		<gameroom_sync>
+			<game_room room_id='2041589958006801565' room_type='1'>
+				<core teams_switched='0' room_name='setTimeout&apos;s GAME ROOM' private='0' players='1' can_start='0' team_balanced='1' min_ready_players='3' revision='16'>
+					<players>
+						<player profile_id='1037' team_id='1' status='0' observer='0' skill='5.000' nickname='setTimeout' clanName='' class_id='0' online_id='172@warface/GameClient' group_id='' presence='17' experience='5438' rank='5' banner_badge='4294967295' banner_mark='4294967295' banner_stripe='4294967295' region_id='global'/>
+					</players>
+					<playersReserved/>
+				</core>
+			</game_room>
+		</gameroom_sync>
+	</query>
+</iq>

@@ -1,0 +1,38 @@
+<presence from='global.pve_5@conference.warface/4545423626' to='172@warface/GameClient' xml:lang='en'>
+<message from='global.pve_5@conference.warface/Hammer_17' to='172@warface/GameClient' xml:lang='en' type='groupchat'>
+	<body></body>
+</message>
+
+<iq to='global.pvp_newbie_5@conference.warface' id='uid00000066' type='get' from='172@warface/GameClient' xmlns='jabber:client'>
+	<query xmlns='http://jabber.org/protocol/disco#items'/>
+</iq>
+
+<presence to='room.pvp_newbie_5.6273951886554958683@conference.warface/setTimeout' type='unavailable' from='172@warface/GameClient' xmlns='jabber:client'>
+	<priority>0</priority>
+	<c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://camaya.net/gloox' ver='1LpOuB49QCQE6BcZoAF5tBoALdg='/>
+</presence>
+
+<query xml='disco#items'>
+	<item jid='global.pvp_newbie_5@conference.warface/ROMA_221' name='ROMA_221'/>
+	<item jid='global.pvp_newbie_5@conference.warface/Gold_Parnisha' name='Gold_Parnisha'/>
+	<item jid='global.pvp_newbie_5@conference.warface/kabucha' name='kabucha'/>
+	<item jid='global.pvp_newbie_5@conference.warface/cungat' name='cungat'/>
+</query>
+
+<iq id='uid00000001' type='set' from='172@warface/GameClient' xmlns='jabber:client'><bind xmlns='urn:ietf:params:xml:ns:xmpp-bind'><resource>GameClient</resource></bind></iq>
+
+<message from='global.pvp_newbie_5@conference.warface/*-GOLD-AX308-*' to='172@warface/GameClient' xml:lang='en' type='groupchat'>
+	<body></body>
+</message>
+
+<iq to='k01.warface' id='uid00000060' type='get' from='172@warface/GameClient' xmlns='jabber:client'>
+	<query xmlns='urn:cryonline:k01'>
+		<player_status prev_status='13' new_status='9' to='pve_1'/>
+	</query>
+</iq>
+
+<iq to='room.pve_5.14271023211788375098@conference.warface' id='uid000000bd' type='set' from='172@warface/GameClient' xmlns='jabber:client'>
+	<query xmlns='http://jabber.org/protocol/muc#owner'>
+		<x xmlns='jabber:x:data' type='submit'/>
+	</query>
+</iq>

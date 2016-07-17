@@ -1,0 +1,5 @@
+<iq from='k01.warface' to='172@warface/GameClient' type='get' id='902043994'>
+	<query xmlns='urn:cryonline:k01'>
+		<data query_name='gameroom_sync' compressedData='eNqtk02P0zAQhv+KT/hCqe18NBHbFSuEChLblXbhwCmapNNgNbEj2+3Sf8/E7ZZSdQ9InDLOO/POzJP4poUenbV95femYXUDPlQOG9Q7dH7O5Ux9eAa3hganC0r92Gk04W2SZEImVxR+ezM6VqMli756NedKpDIryjIrhMgLIbM84wc17AekLlTWWIcsIPS+8s86ND+RCsUxzZDnnHsM33SPdhvewGD9e88Wd/ef2OPDwz1ng9M7CBhrhg72cXzFWQOm8gFciMrYoKqhA9OM/pKzXhtaGFb76lSVUFfcaa+tIYuShjtKLwE1s2vdYVxOimR2NNYHS2oXtj72s7VHRyjjwW9018159k4IOhndbC73onFptGV8G2PvoylNZE2nzbHj1Y/CWevsdogZIw70SEuO2ZzhrwGdPpyzNCloQTAbijmrwRh0xGTVkpiqMi3zmSr/KD24zVXBB6eHixqHLVGLM7SdJdB8ehVaImSRJv+ETeaX3Ja2tXb1A/05turz969fFnfLp+ocoPoL4Ou/7xlDBalIQalJUZRykkoFkzqB2aRMm9m6qHOEkePrnPNE5eULaJlfkpYy/Y+Ipxd/qH/ESHA1auPVosfpYh7j07W//Q3F1U5Z' originalSize='1030'/>
+	</query>
+</iq>

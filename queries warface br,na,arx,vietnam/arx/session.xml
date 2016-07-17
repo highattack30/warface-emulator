@@ -1,0 +1,14 @@
+<session id='14704571664677435478' status='3' game_progress='0' start_time='1465874518' revision='563'/>
+<mission mission_key='cdb2fe18-c99e-56b0-9e7f-ffc1d7733f53' no_teams='0' name='@pvp_mission_display_name_ptb_d17' setting='pvp/ptb_D17' mode='ptb' mode_name='@pvp_ptb_game_mode_desc' mode_icon='pvp_ptb_game_mode_icon' description='@pvp_ptb_mission_desc' image='mapImgptb_D17' difficulty='normal' type='' time_of_day='09.43' revision='646'><objectives factor='1'/>
+</mission>
+</game_room>
+</gameroom_sync>de_icon='pvp_ptb_game_mode_icon' description='@pvp_ptb_mission_desc' image='mapImgptb_D17' difficulty='normal' type='' time_of_day='09.43' revision='641'><objectives factor='1'/></mission><room_master master='3090' revision='550'/></game_room></gameroom_sync>
+
+<session id='14704592546808429044' status='2' game_progress='0' start_time='1465874932' revision='239'/>
+</game_room>
+</gameroom_sync>
+</query>
+</iq>
+
+
+session status='2' game_progress='0' start_time='1465874680' revision='1'/><custom_params friendly_fire='0' enemy_outlines='0' auto_team_balance='1' dead_can_chat='1' join_in_the_process='1' max_players='16' round_limit='0' class_restriction='253' inventory_slot='2113929215' revision='1'/><room_master master='279815' revision='1'/></game_room></gameroom_get></query></iq>

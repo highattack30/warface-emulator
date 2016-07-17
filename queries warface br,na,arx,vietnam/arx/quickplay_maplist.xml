@@ -1,0 +1,47 @@
+<iq from='masterserver@warface/main_pvp_newbie_2' to='settimeout@warface/GameClient' xml:lang='en' id='uid00000035' type='result'>
+	<query xmlns='urn:cryonline:k01'>
+		<quickplay_maplist left='0' token='7226'>
+			<map mission='45188feb-0017-46ec-bb57-189dbbd6be2d'/>
+			<map mission='73904867-1107-4db2-a7eb-4593d580f835'/>
+			<map mission='e1129d41-42fd-4451-b729-4b7ff5f4e3e7'/>
+			<map mission='d0af9f60-6402-11c4-8d37-8c89a553425b'/>
+			<map mission='70e29d78-bb85-4014-8989-ffeb9074d2bc'/>
+			<map mission='959ddc2d-9bb4-4eab-9be8-8e04e76d94aa'/>
+			<map mission='2124463b-0612-4882-a5de-b222b21bf0e6'/>
+			<map mission='3f57cdb0-010a-11e5-a726-8c99a553325b'/>
+		</quickplay_maplist>
+	</query>
+</iq>
+
+<iq from='masterserver@warface/main_pvp_newbie_2' to='settimeout@warface/GameClient' xml:lang='en' id='uid0000002f' type='result'>
+	<query xmlns='urn:cryonline:k01'>
+		<quickplay_maplist left='18' token='7226'>
+			<map mission='e4f56e59-97fb-4451-a137-7b44026d96b0'/>
+			<map mission='f405283f-42f9-4d5e-b02a-618cacd10cf4'/>
+			<map mission='3347d361-ef36-4c57-8bca-4f8051fc97e6'/>
+			<map mission='805b24e5-f5b6-447c-b7a5-c82c6b0134cb'/>
+			<map mission='e5981b6a-325d-42eb-a3fe-e6eed0bc4bf2'/>
+			<map mission='51a9ebbc-8519-4f5e-b83e-0e9911c6995c'/>
+			<map mission='bbb33b77-98db-463c-9a1a-d27655d90690'/>
+			<map mission='90c7e3c1-6432-4745-8abc-40cbccaa4d25'/>
+			<map mission='1d71c946-7ffc-4045-8035-14eea4072e02'/>
+			<map mission='0575ee9b-db2a-4a8d-a376-c2ec4b021587'/>
+		</quickplay_maplist>
+	</query>
+</iq>
+
+<iq from='masterserver@warface/main_pvp_newbie_2' to='settimeout@warface/GameClient' xml:lang='en' id='uid00000034' type='result'><query xmlns='urn:cryonline:k01'>
+	<quickplay_maplist left='8' token='7226'>
+		<map mission='8702f1ee-bac1-4bea-a92b-d5b76c5cd5af'/>
+		<map mission='d2cc9728-2a3f-4387-a0ea-ea1e0f967495'/>
+		<map mission='517d8a3f-91f8-4566-81a2-b48a70e44014'/>
+		<map mission='ee01cd3a-d214-48fa-843b-788427a6161c'/>
+		<map mission='18a2580c-5988-4890-96a9-b7b40c5487c4'/>
+		<map mission='123bec5b-a1c2-4bab-b105-3b5b89bab014'/>
+		<map mission='cdb2fe18-c99e-56b0-9e7f-ffc1d7733f53'/>
+		<map mission='afcf6636-b5a8-4eec-ac24-fa0915695a15'/>
+		<map mission='45e182f3-d45c-4e5d-8054-fc4bbbfc2782'/>
+		<map mission='e6e96230-b938-11e5-b925-8c89a554425b'/>
+	</quickplay_maplist>
+</query>
+</iq>
