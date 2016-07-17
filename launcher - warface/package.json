@@ -1,0 +1,23 @@
+{
+    "name": "Warface Launcher",
+    "main": "index.html",
+    "window": {
+        "icon": "img/warface64.png",
+        "show": false,
+        "frame": true,
+        "toolbar": false,
+        "width": 600,
+        "height": 200,
+        "resizable": false
+    },
+    "scripts": {
+	   "start": "nw ."
+	},
+    "webkit": {
+        "plugin": true
+    },
+    "dependencies": {
+        "path": "*"
+    },
+    "user-agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36 wf-launcher"
+}

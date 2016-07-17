@@ -1,0 +1,54 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.bg{
+    background-color: #282c2b;
+}
+
+
+/* New css */
+.grid{
+    width: 600px;
+    overflow: hidden;
+}
+
+.grid .box{
+    float: left;
+    height: 200px;
+}
+
+.grid .box.is-logo{
+    width: 60%;
+    background-image: url(../img/warface2x.png);
+    background-size: 77%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.grid .box.is-play{
+    width: 40%;
+    background-color: #F63F2D;
+}
+
+.grid .box.is-play .button{
+    width: 140px;
+    display: block;
+    margin: 75px auto;
+    box-shadow: 2px 2px 0px #DC2F1E;
+}
+
+.button button{
+    width: 100%;
+    height: 50px;
+    border: 0;
+    text-transform: uppercase;
+    font-family: monospace;
+    background-color: #fff;
+    color: #F63F2D;
+    font-size: 21px;
+    font-weight: 600;
+    outline: none;
+    cursor: pointer;
+}
