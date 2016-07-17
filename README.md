@@ -1,6 +1,6 @@
 # warface-emulator
 
-Emulator client warface...
+Emulator client warface.
 
 # Suporte server client game
 
