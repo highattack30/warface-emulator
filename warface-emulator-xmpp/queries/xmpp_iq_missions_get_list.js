@@ -1,0 +1,12 @@
+var ltx = require('ltx');
+
+exports.module = function(client, stz) {
+    missions_get_list = ltx.parse(
+        "<iq to='ms.warface' type='get'>"+
+            "<query xmlns='urn:cryonline:k01'>"+
+                "<data query_name='missions_get_list' hash='-1430220480' content_hash='-1162631100' compressedData='eNrdWttu2zgQ/RW/FH4izMvwVjRFu+0usC9Fsc1TXwReY6W2ZEiqi/Trl7Il20psxwbqJC0CWCI1HI15OGcO6byZ53Wdl0Wd3YQmm+V1M5qaeno1RgQYphSDwuORK4smFE3WPyKCCkYIxuO3bzoHo+6afQt3V2OlglSGEcQdNQg4F0g5JRA4AtoprwNn41FRZk0w8/pqTFLDzMPV+J1rst7Tz3Ju8zAe1aFp8uLmarzumKwvmTV1ejgvfRq2WHa3Wefm8/Lv7CbdZqtOH2rXPc/Td1nZr+7Go/ZRlS+avO1+17nuI1iPy+fmJvmcm8W/85uvXz6S26wdmMeYu++zJn3doqzmZjYeNXeL0Ie56ctTFGXMvEmG+jUWac5Kextcky9DPYrGNWXVzsBO9yj3V2Pc+1tUKYLqbjx5+2ayHZkaXZgHMDBRGyeZR9g4iyAoQNpqltAjlIOTmPoDGNRF+WMzB/X3apkvzSzDbAeKvneyso1l1VShri+CyeoNmyh2oVmFNEDnS2f2JY1hQ4x6D/2sOjNfmPymqNv5LAt2DylCXjO8Hyr6y6GKlmPFgSFHaERAPEPKK4uU9sHawGLEB6AqzGZGluXMmWSDyT6cTKxyZ7bzeAmk9gSzhoncg+nT+/55fRykzmyn+7myiWoJYEAgrWTKJiYxUtZihMEQoaUFTsijjBZMfYdJtguQm+aFmaw+L4LJIF/Wr7l9gMeH69SXvdoi8eoYv61bneOTITkta4YWqrdISVoWfh9sH6ryR/Ff+GEqX19PEwlNy5lP/ddlY2afQxXbYAsXRrYqi5/JFRU01a1Rnc+WIYUFHNrmTRp1NRaCp0Z6xXX6TpsRQDRNfztjiGYcdD+qbUqmV6EdCme3f+t463LjjPCVn+OLUQUSleAUycgwAq0wslJGZIRiFiKw4PGji3GbVHtY/ZI0sZfLH6zIbXjHCKJvn7saL0AQ0grFuUYu2pDKbfTIGqxRBAqYSh2t1o9y+MI003sEsSbunr8vThHde9pA7kHyfv2kqUxepMiGuLTM1k9gb3EZTIYWfC9DDG2IeJxGHgFXU+ODFonzKUsFOkaKNLU2ZZ0RwKMGyenvrGenQzSniaaGarbrea7kktpYDDpNOHieBBJOddh6g4zTXDjOrBH8d57/cDib1i66nueaf4wJtdowlOpeWv/CE6SUIch5IoWnQTMiz9pLwMvbS8CRvcRZW4n69K0E/PpMCRYctQoxSWhiKp1UAfcOGawUdVxGIf2jZajNdgwvoAzdPkDl0/vUl63p6BBltfdPIU/hhOKjLyBhmdS7ElYIvJWwRCa1yvdqWMn5UMNSRnc1LAh6voaVW5dkI2IZnCJinbHKtFpJJOkKWOu035WAbDRCB2a0jfjP3PQeYfvO5JnpngBgzm1EWrKEjyEKac8YwtJwLT3hjPFHoVltdiGjL5ZE1pN8CIn2/ilIhF+AIEAJsZPrUirJNwRBKSf7N7mKkSFBpI3LLkFwYOcTBN1xudlnn0APhroQg3NIWuYQeJrUnrUOCRYDCUrTGPBZkoO+PMlBj0gOepbmoKdrjl9PF1HL6JxnSMSWyZ1OJM4FR4TY9gCTWIoPqEO7GNIFH2iOb2VdLsvJ+nIRcNr+FEMofFabaKr8HiB/fb5NMYWXyhJDG3GJ0zKGB6dlqwOyPotXz/YQCaMa7p2WcdglEoHh6YiEeKw0DxRhj1Mxo5gjKwJHgnhqeeSM6APFLPpjxSyaZZiZyfpy+WLWvedhMfvnY1vM+iPal3BsS05YrJcoe0QPFiujdLtY4eBiZfLeYpUwWKyKwxMe7VqackwEhbAVGEEIgIyUDnntqffgiYfwZ6riI2dQnckzH0IZD5LgyJAOJpU5Ax5Zm1SxZ9J5QTFAtH8mNEd/7u6Mnv337kC4JCFypKNhCFqtaIX2KKUN18Fx5g6dfBwQjOTlCUZyRDCSswQjeSLBOHnwDyZv/wdEQvD+' originalSize='8820'/>"+
+            "</query>"+
+        "</iq>"
+    )
+    client.send(missions_get_list); 
+}
