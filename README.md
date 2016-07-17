@@ -24,7 +24,7 @@ Lobby, invetory, statistics, career, clans and other things.
 
 4 - Start Mongodb (Open cmd and type: cd C:\Program Files\MongoDB\Server\3.2\bin after this type node mongod)
 
-5 - Go to API-GA and create you account
+5 - Go to Api warface emulator and create you account
 
 6 - Go to Launcher folder and Open past's : Warface\launcher - warface\assets\js and Edit you Login in js file
 
